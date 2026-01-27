@@ -1,5 +1,5 @@
 # Environment variables
-etl\.env
+.env
 
 # Python
 etl\__pycache__
