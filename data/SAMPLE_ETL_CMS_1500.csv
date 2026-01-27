@@ -1,0 +1,1501 @@
+sale_year,total_claims,sales_amount,drug_name,generic_name,prescriber_npi,state,provider_type
+2023,35,38337.07,Mounjaro,Tirzepatide,1003250796,TX,Endocrinology
+2023,39,3547.34,Nano 2nd Gen Pen Needle,"Pen Needle, Diabetic",1003250796,TX,Endocrinology
+2023,12,2716.81,Novolin 70-30,Insulin Nph Hum/Reg Insulin Hm,1003250796,TX,Endocrinology
+2023,20,23015.16,Novolog,Insulin Aspart,1003250796,TX,Endocrinology
+2023,28,26070.84,Novolog Flexpen,Insulin Aspart,1003250796,TX,Endocrinology
+2023,15,1761.65,Octreotide Acetate,Octreotide Acetate,1003250796,TX,Endocrinology
+2023,95,158214.08,Ozempic,Semaglutide,1003250796,TX,Endocrinology
+2023,15,367.84,Pioglitazone Hcl,Pioglitazone Hcl,1003250796,TX,Endocrinology
+2023,30,274.18,Prednisone,Prednisone,1003250796,TX,Endocrinology
+2023,23,43261.96,Rybelsus,Semaglutide,1003250796,TX,Endocrinology
+2023,55,5643.29,Synthroid,Levothyroxine Sodium,1003250796,TX,Endocrinology
+2023,11,6291.82,Toujeo Solostar,"Insulin Glargine,hum.Rec.Anlog",1003250796,TX,Endocrinology
+2023,20,10233.18,Tresiba Flextouch U-100,Insulin Degludec,1003250796,TX,Endocrinology
+2023,18,22123.04,Tresiba Flextouch U-200,Insulin Degludec,1003250796,TX,Endocrinology
+2023,183,223223.45,Trulicity,Dulaglutide,1003250796,TX,Endocrinology
+2023,18,1518.77,Ultra-Fine Nano Pen Needle,"Pen Needle, Diabetic",1003250796,TX,Endocrinology
+2023,18,1700.47,Ultra-Fine Short Pen Needle,"Pen Needle, Diabetic",1003250796,TX,Endocrinology
+2023,11,230.01,Venlafaxine Hcl Er,Venlafaxine Hcl,1003250796,TX,Endocrinology
+2023,15,21489.92,Victoza 3-Pak,Liraglutide,1003250796,TX,Endocrinology
+2023,30,36.24,Amoxicillin,Amoxicillin,1003250887,VA,Orthopedic Surgery
+2023,27,592.54,Celecoxib,Celecoxib,1003250887,VA,Orthopedic Surgery
+2023,83,342.76,Meloxicam,Meloxicam,1003250887,VA,Orthopedic Surgery
+2023,28,291.65,Methylprednisolone,Methylprednisolone,1003250887,VA,Orthopedic Surgery
+2023,22,160.5,Naproxen,Naproxen,1003250887,VA,Orthopedic Surgery
+2023,16,75.88,Oxycodone Hcl,Oxycodone Hcl,1003250887,VA,Orthopedic Surgery
+2023,14,178.47,Allopurinol,Allopurinol,1003250945,AR,Family Practice
+2023,33,143.55,Alprazolam,Alprazolam,1003250945,AR,Family Practice
+2023,96,560.49,Amlodipine Besylate,Amlodipine Besylate,1003250945,AR,Family Practice
+2023,40,186.55,Amoxicillin,Amoxicillin,1003250945,AR,Family Practice
+2023,29,312.4,Amoxicillin-Clavulanate Potass,Amoxicillin/Potassium Clav,1003250945,AR,Family Practice
+2023,11,220.59,Atenolol,Atenolol,1003250945,AR,Family Practice
+2023,126,2043.81,Atorvastatin Calcium,Atorvastatin Calcium,1003250945,AR,Family Practice
+2023,18,264.07,Buspirone Hcl,Buspirone Hcl,1003250945,AR,Family Practice
+2023,14,308.74,Carvedilol,Carvedilol,1003250945,AR,Family Practice
+2023,16,46.66,Cephalexin,Cephalexin,1003250945,AR,Family Practice
+2023,19,209.99,Citalopram Hbr,Citalopram Hydrobromide,1003250945,AR,Family Practice
+2023,11,14.53,Clonazepam,Clonazepam,1003250945,AR,Family Practice
+2023,15,29.02,Clonidine Hcl,Clonidine Hcl,1003250945,AR,Family Practice
+2023,11,132.08,Clopidogrel,Clopidogrel Bisulfate,1003250945,AR,Family Practice
+2023,24,89.3,Cyclobenzaprine Hcl,Cyclobenzaprine Hcl,1003250945,AR,Family Practice
+2023,26,684.96,Donepezil Hcl,Donepezil Hcl,1003250945,AR,Family Practice
+2023,45,1221.31,Duloxetine Hcl,Duloxetine Hcl,1003250945,AR,Family Practice
+2023,18,15533.95,Eliquis,Apixaban,1003250945,AR,Family Practice
+2023,60,475.14,Escitalopram Oxalate,Escitalopram Oxalate,1003250945,AR,Family Practice
+2023,16,441.97,Ezetimibe,Ezetimibe,1003250945,AR,Family Practice
+2023,17,210.41,Fluoxetine Hcl,Fluoxetine Hcl,1003250945,AR,Family Practice
+2023,24,264.5,Fluticasone Propionate,Fluticasone Propionate,1003250945,AR,Family Practice
+2023,30,215.63,Furosemide,Furosemide,1003250945,AR,Family Practice
+2023,68,1398.25,Gabapentin,Gabapentin,1003250945,AR,Family Practice
+2023,12,110.21,Glipizide,Glipizide,1003250945,AR,Family Practice
+2023,24,797.02,Glipizide Er,Glipizide,1003250945,AR,Family Practice
+2023,15,908.62,Glipizide-Metformin,Glipizide/Metformin Hcl,1003250945,AR,Family Practice
+2023,31,150.0,Hydrochlorothiazide,Hydrochlorothiazide,1003250945,AR,Family Practice
+2023,30,508.09,Hydrocodone-Acetaminophen,Hydrocodone/Acetaminophen,1003250945,AR,Family Practice
+2023,11,54.19,Lamotrigine,Lamotrigine,1003250945,AR,Family Practice
+2023,106,1136.78,Levothyroxine Sodium,Levothyroxine Sodium,1003250945,AR,Family Practice
+2023,119,1202.88,Lisinopril,Lisinopril,1003250945,AR,Family Practice
+2023,30,470.13,Lisinopril-Hydrochlorothiazide,Lisinopril/Hydrochlorothiazide,1003250945,AR,Family Practice
+2023,77,1039.63,Losartan Potassium,Losartan Potassium,1003250945,AR,Family Practice
+2023,12,326.22,Losartan-Hydrochlorothiazide,Losartan/Hydrochlorothiazide,1003250945,AR,Family Practice
+2023,82,986.08,Metformin Hcl,Metformin Hcl,1003250945,AR,Family Practice
+2023,14,192.31,Metformin Hcl Er,Metformin Hcl,1003250945,AR,Family Practice
+2023,22,375.14,Metoprolol Succinate,Metoprolol Succinate,1003250945,AR,Family Practice
+2023,39,131.92,Metoprolol Tartrate,Metoprolol Tartrate,1003250945,AR,Family Practice
+2023,18,241.6,Mirtazapine,Mirtazapine,1003250945,AR,Family Practice
+2023,105,1517.46,Omeprazole,Omeprazole,1003250945,AR,Family Practice
+2023,30,32671.05,Ozempic,Semaglutide,1003250945,AR,Family Practice
+2023,51,415.61,Pantoprazole Sodium,Pantoprazole Sodium,1003250945,AR,Family Practice
+2023,33,452.09,Potassium Chloride,Potassium Chloride,1003250945,AR,Family Practice
+2023,26,518.29,Pravastatin Sodium,Pravastatin Sodium,1003250945,AR,Family Practice
+2023,25,92.69,Prednisone,Prednisone,1003250945,AR,Family Practice
+2023,27,845.75,Pregabalin,Pregabalin,1003250945,AR,Family Practice
+2023,14,41.97,Quetiapine Fumarate,Quetiapine Fumarate,1003250945,AR,Family Practice
+2023,12,152.92,Ramipril,Ramipril,1003250945,AR,Family Practice
+2023,31,587.84,Ropinirole Hcl,Ropinirole Hcl,1003250945,AR,Family Practice
+2023,45,639.64,Rosuvastatin Calcium,Rosuvastatin Calcium,1003250945,AR,Family Practice
+2023,66,720.86,Sertraline Hcl,Sertraline Hcl,1003250945,AR,Family Practice
+2023,15,58.3,Spironolactone,Spironolactone,1003250945,AR,Family Practice
+2023,20,339.78,Tamsulosin Hcl,Tamsulosin Hcl,1003250945,AR,Family Practice
+2023,15,67.65,Tramadol Hcl,Tramadol Hcl,1003250945,AR,Family Practice
+2023,13,12991.59,Trulicity,Dulaglutide,1003250945,AR,Family Practice
+2023,16,606.36,Venlafaxine Hcl Er,Venlafaxine Hcl,1003250945,AR,Family Practice
+2023,12,532.8,Verapamil Sr,Verapamil Hcl,1003250945,AR,Family Practice
+2023,13,7516.07,Xarelto,Rivaroxaban,1003250945,AR,Family Practice
+2023,20,159.07,Zolpidem Tartrate,Zolpidem Tartrate,1003250945,AR,Family Practice
+2023,13,86.98,Amoxicillin-Clavulanate Potass,Amoxicillin/Potassium Clav,1003251026,KY,Hospitalist
+2023,14,141.66,Azithromycin,Azithromycin,1003251026,KY,Hospitalist
+2023,35,372.52,Cefdinir,Cefdinir,1003251026,KY,Hospitalist
+2023,15,129.78,Doxycycline Hyclate,Doxycycline Hyclate,1003251026,KY,Hospitalist
+2023,13,183.99,Hydralazine Hcl,Hydralazine Hcl,1003251026,KY,Hospitalist
+2023,19,57.68,Hydrocodone-Acetaminophen,Hydrocodone/Acetaminophen,1003251026,KY,Hospitalist
+2023,13,140.21,Levofloxacin,Levofloxacin,1003251026,KY,Hospitalist
+2023,11,41.09,Oxycodone Hcl,Oxycodone Hcl,1003251026,KY,Hospitalist
+2023,21,83.23,Oxycodone-Acetaminophen,Oxycodone Hcl/Acetaminophen,1003251026,KY,Hospitalist
+2023,30,226.07,Pantoprazole Sodium,Pantoprazole Sodium,1003251026,KY,Hospitalist
+2023,39,165.71,Prednisone,Prednisone,1003251026,KY,Hospitalist
+2023,23,618.8,Albuterol Sulfate Hfa,Albuterol Sulfate,1003251158,MD,Family Practice
+2023,16,107.39,Amlodipine Besylate,Amlodipine Besylate,1003251158,MD,Family Practice
+2023,44,630.82,Amoxicillin-Clavulanate Potass,Amoxicillin/Potassium Clav,1003251158,MD,Family Practice
+2023,22,102.21,Azithromycin,Azithromycin,1003251158,MD,Family Practice
+2023,31,530.36,Cefuroxime,Cefuroxime Axetil,1003251158,MD,Family Practice
+2023,11,135.6,Cephalexin,Cephalexin,1003251158,MD,Family Practice
+2023,85,1075.95,Doxycycline Hyclate,Doxycycline Hyclate,1003251158,MD,Family Practice
+2023,28,347.5,Fluticasone Propionate,Fluticasone Propionate,1003251158,MD,Family Practice
+2023,24,114.8,Ibuprofen,Ibuprofen,1003251158,MD,Family Practice
+2023,12,182.61,Losartan Potassium,Losartan Potassium,1003251158,MD,Family Practice
+2023,16,82.66,Methocarbamol,Methocarbamol,1003251158,MD,Family Practice
+2023,93,901.48,Methylprednisolone,Methylprednisolone,1003251158,MD,Family Practice
+2023,16,174.38,Mupirocin,Mupirocin,1003251158,MD,Family Practice
+2023,14,208.28,Nitrofurantoin Mono-Macro,Nitrofurantoin Monohyd/M-Cryst,1003251158,MD,Family Practice
+2023,14,238.41,Ofloxacin,Ofloxacin,1003251158,MD,Family Practice
+2023,14,67.65,Ondansetron Odt,Ondansetron,1003251158,MD,Family Practice
+2023,16,166.5,Paxlovid (Eua),Nirmatrelvir/Ritonavir,1003251158,MD,Family Practice
+2023,42,199.64,Prednisone,Prednisone,1003251158,MD,Family Practice
+2023,21,153.03,Sulfamethoxazole-Trimethoprim,Sulfamethoxazole/Trimethoprim,1003251158,MD,Family Practice
+2023,13,37.59,Triamcinolone Acetonide,Triamcinolone Acetonide,1003251158,MD,Family Practice
+2023,11,160.82,Amitriptyline Hcl,Amitriptyline Hcl,1003251166,SC,Gastroenterology
+2023,13,2531.5,Colestipol Hcl,Colestipol Hcl,1003251166,SC,Gastroenterology
+2023,19,522.46,Famotidine,Famotidine,1003251166,SC,Gastroenterology
+2023,52,718.3,Gavilyte-G,"Peg3350/Sod Sulf,bicarb,cl/Kcl",1003251166,SC,Gastroenterology
+2023,49,1666.43,Omeprazole,Omeprazole,1003251166,SC,Gastroenterology
+2023,11,201.99,Peg-3350 And Electrolytes,"Peg3350/Sod Sulf,bicarb,cl/Kcl",1003251166,SC,Gastroenterology
+2023,22,140544.74,Abiraterone Acetate,Abiraterone Acetate,1003251224,PR,Hematology-Oncology
+2023,11,93.79,Acetaminophen-Codeine,Acetaminophen With Codeine,1003251224,PR,Hematology-Oncology
+2023,12,34.26,Amlodipine Besylate,Amlodipine Besylate,1003251224,PR,Hematology-Oncology
+2023,76,799.03,Anastrozole,Anastrozole,1003251224,PR,Hematology-Oncology
+2023,44,740.83,Dexamethasone,Dexamethasone,1003251224,PR,Hematology-Oncology
+2023,13,63.89,Dexamethasone Sodium Phosphate,Dexamethasone Sodium Phosphate,1003251224,PR,Hematology-Oncology
+2023,18,92.13,Diphenhydramine Hcl,Diphenhydramine Hcl,1003251224,PR,Hematology-Oncology
+2023,21,13089.16,Eliquis,Apixaban,1003251224,PR,Hematology-Oncology
+2023,15,2486.84,Exemestane,Exemestane,1003251224,PR,Hematology-Oncology
+2023,77,440.81,Famotidine,Famotidine,1003251224,PR,Hematology-Oncology
+2023,19,87.54,Famotidine,Famotidine,1003251224,PR,Hematology-Oncology
+2023,15,1455.0,Fentanyl,Fentanyl,1003251224,PR,Hematology-Oncology
+2023,21,137.88,Gabapentin,Gabapentin,1003251224,PR,Hematology-Oncology
+2023,19,507.38,Hydroxyurea,Hydroxyurea,1003251224,PR,Hematology-Oncology
+2023,16,216.48,Nitrofurantoin Mono-Macro,Nitrofurantoin Monohyd/M-Cryst,1134143019,IN,Internal Medicine
+2023,14,149.26,Nortriptyline Hcl,Nortriptyline Hcl,1134143019,IN,Internal Medicine
+2023,18,38887.24,Novolog Flexpen,Insulin Aspart,1134143019,IN,Internal Medicine
+2023,14,8447.38,Novolog Mix 70-30 Flexpen,Insulin Aspart Prot/Insuln Asp,1134143019,IN,Internal Medicine
+2023,12,12923.04,Nucynta,Tapentadol Hcl,1134143019,IN,Internal Medicine
+2023,17,432.73,Nystatin,Nystatin,1134143019,IN,Internal Medicine
+2023,15,633.63,Olanzapine,Olanzapine,1134143019,IN,Internal Medicine
+2023,16,1275.13,Omega-3 Acid Ethyl Esters,Omega-3 Acid Ethyl Esters,1134143019,IN,Internal Medicine
+2023,259,3610.23,Omeprazole,Omeprazole,1134143019,IN,Internal Medicine
+2023,42,305.03,Ondansetron Odt,Ondansetron,1134143019,IN,Internal Medicine
+2023,27,542.92,Oxybutynin Chloride,Oxybutynin Chloride,1134143019,IN,Internal Medicine
+2023,14,203.46,Oxycodone Hcl,Oxycodone Hcl,1134143019,IN,Internal Medicine
+2023,57,80721.84,Ozempic,Semaglutide,1134143019,IN,Internal Medicine
+2023,323,5053.03,Pantoprazole Sodium,Pantoprazole Sodium,1134143019,IN,Internal Medicine
+2023,39,674.72,Paroxetine Hcl,Paroxetine Hcl,1134143019,IN,Internal Medicine
+2023,27,291.0,Paxlovid (Eua),Nirmatrelvir/Ritonavir,1134143019,IN,Internal Medicine
+2023,11,490.49,Pilocarpine Hcl,Pilocarpine Hcl,1134143019,IN,Internal Medicine
+2023,223,7732.5,Potassium Chloride,Potassium Chloride,1134143019,IN,Internal Medicine
+2023,44,573.01,Pravastatin Sodium,Pravastatin Sodium,1134143019,IN,Internal Medicine
+2023,45,241.67,Prednisone,Prednisone,1134143019,IN,Internal Medicine
+2023,43,4640.62,Pregabalin,Pregabalin,1134143019,IN,Internal Medicine
+2023,18,7388.89,Premarin,"Estrogens, Conjugated",1134143019,IN,Internal Medicine
+2023,28,670.75,Primidone,Primidone,1134143019,IN,Internal Medicine
+2023,16,175.07,Prochlorperazine Maleate,Prochlorperazine Maleate,1134143019,IN,Internal Medicine
+2023,18,421.1,Propranolol Hcl,Propranolol Hcl,1134143019,IN,Internal Medicine
+2023,38,1126.95,Quetiapine Fumarate,Quetiapine Fumarate,1134143019,IN,Internal Medicine
+2023,24,27987.15,Repatha Sureclick,Evolocumab,1134143019,IN,Internal Medicine
+2023,18,514.34,Ropinirole Hcl,Ropinirole Hcl,1134143019,IN,Internal Medicine
+2023,340,5169.89,Rosuvastatin Calcium,Rosuvastatin Calcium,1134143019,IN,Internal Medicine
+2023,115,994.23,Sertraline Hcl,Sertraline Hcl,1134143019,IN,Internal Medicine
+2023,249,2049.08,Simvastatin,Simvastatin,1134143019,IN,Internal Medicine
+2023,26,4640.26,Solifenacin Succinate,Solifenacin Succinate,1134143019,IN,Internal Medicine
+2023,65,623.22,Spironolactone,Spironolactone,1134143019,IN,Internal Medicine
+2023,12,485.21,Sucralfate,Sucralfate,1134143019,IN,Internal Medicine
+2023,38,186.5,Sulfamethoxazole-Trimethoprim,Sulfamethoxazole/Trimethoprim,1134143019,IN,Internal Medicine
+2023,39,336.27,Sumatriptan Succinate,Sumatriptan Succinate,1134143019,IN,Internal Medicine
+2023,37,18774.34,Symbicort,Budesonide/Formoterol Fumarate,1134143019,IN,Internal Medicine
+2023,202,17142.99,Synthroid,Levothyroxine Sodium,1134143019,IN,Internal Medicine
+2023,101,1635.03,Tamsulosin Hcl,Tamsulosin Hcl,1134143019,IN,Internal Medicine
+2023,33,1350.41,Telmisartan,Telmisartan,1134143019,IN,Internal Medicine
+2023,15,173.56,Tizanidine Hcl,Tizanidine Hcl,1134143019,IN,Internal Medicine
+2023,67,396.49,Tramadol Hcl,Tramadol Hcl,1134143019,IN,Internal Medicine
+2023,83,991.0,Trazodone Hcl,Trazodone Hcl,1134143019,IN,Internal Medicine
+2023,14,11060.4,Trelegy Ellipta,Fluticasone/Umeclidin/Vilanter,1134143019,IN,Internal Medicine
+2023,64,379.81,Triamcinolone Acetonide,Triamcinolone Acetonide,1134143019,IN,Internal Medicine
+2023,59,533.63,Triamterene-Hydrochlorothiazid,Triamterene/Hydrochlorothiazid,1134143019,IN,Internal Medicine
+2023,59,96817.52,Trulicity,Dulaglutide,1134143019,IN,Internal Medicine
+2023,12,579.07,Ultra-Fine Mini Pen Needle,"Pen Needle, Diabetic",1134143019,IN,Internal Medicine
+2023,25,430.38,Valacyclovir,Valacyclovir Hcl,1134143019,IN,Internal Medicine
+2023,155,4476.07,Valsartan,Valsartan,1134143019,IN,Internal Medicine
+2023,80,2432.87,Valsartan-Hydrochlorothiazide,Valsartan/Hydrochlorothiazide,1134143019,IN,Internal Medicine
+2023,22,17257.24,Vascepa,Icosapent Ethyl,1134143019,IN,Internal Medicine
+2023,88,2829.45,Venlafaxine Hcl Er,Venlafaxine Hcl,1134143019,IN,Internal Medicine
+2023,30,252.31,Warfarin Sodium,Warfarin Sodium,1134143019,IN,Internal Medicine
+2023,36,43939.0,Xarelto,Rivaroxaban,1134143019,IN,Internal Medicine
+2023,12,1084.49,Ziprasidone Hcl,Ziprasidone Hcl,1134143019,IN,Internal Medicine
+2023,88,877.22,Zolpidem Tartrate,Zolpidem Tartrate,1134143019,IN,Internal Medicine
+2023,143,981.55,Amlodipine Besylate,Amlodipine Besylate,1134143035,NY,Cardiology
+2023,149,1844.32,Atorvastatin Calcium,Atorvastatin Calcium,1134143035,NY,Cardiology
+2023,19,60.91,Azithromycin,Azithromycin,1134143035,NY,Cardiology
+2023,61,783.35,Carvedilol,Carvedilol,1134143035,NY,Cardiology
+2023,17,103.7,Chlorhexidine Gluconate,Chlorhexidine Gluconate,1134143035,NY,Cardiology
+2023,14,666.22,Clindamycin Phosphate,Clindamycin Phosphate,1134143035,NY,Cardiology
+2023,14,765.69,Clobetasol Propionate,Clobetasol Propionate,1134143035,NY,Cardiology
+2023,34,391.54,Clopidogrel,Clopidogrel Bisulfate,1134143035,NY,Cardiology
+2023,36,1320.47,Clotrimazole-Betamethasone,Clotrimazole/Betamethasone Dip,1134143035,NY,Cardiology
+2023,23,20333.03,Eliquis,Apixaban,1134143035,NY,Cardiology
+2023,32,829.83,Esomeprazole Magnesium,Esomeprazole Magnesium,1134143035,NY,Cardiology
+2023,18,45.3,Famotidine,Famotidine,1134143035,NY,Cardiology
+2023,27,38826.32,Farxiga,Dapagliflozin Propanediol,1134143035,NY,Cardiology
+2023,15,350.85,Fludrocortisone Acetate,Fludrocortisone Acetate,1134143035,NY,Cardiology
+2023,46,168.64,Furosemide,Furosemide,1134143035,NY,Cardiology
+2023,12,128.35,Glimepiride,Glimepiride,1134143035,NY,Cardiology
+2023,12,443.86,Glipizide Er,Glipizide,1134143035,NY,Cardiology
+2023,15,4777.05,Humulin N,Insulin Nph Human Isophane,1134143035,NY,Cardiology
+2023,15,4777.05,Humulin R,"Insulin Regular, Human",1134143035,NY,Cardiology
+2023,38,710.52,Hydralazine Hcl,Hydralazine Hcl,1134143035,NY,Cardiology
+2023,66,1201.15,Isosorbide Mononitrate Er,Isosorbide Mononitrate,1134143035,NY,Cardiology
+2023,28,16359.73,Janumet,Sitagliptin Phos/Metformin Hcl,1134143035,NY,Cardiology
+2023,30,21675.18,Jardiance,Empagliflozin,1134143035,NY,Cardiology
+2023,40,797.37,Levothyroxine Sodium,Levothyroxine Sodium,1134143035,NY,Cardiology
+2023,41,339.89,Lisinopril,Lisinopril,1134143035,NY,Cardiology
+2023,33,593.41,Losartan Potassium,Losartan Potassium,1134143035,NY,Cardiology
+2023,16,348.36,Losartan-Hydrochlorothiazide,Losartan/Hydrochlorothiazide,1134143035,NY,Cardiology
+2023,16,126.31,Lovastatin,Lovastatin,1134143035,NY,Cardiology
+2023,14,3939.32,Lubiprostone,Lubiprostone,1134143035,NY,Cardiology
+2023,45,511.46,Metformin Hcl,Metformin Hcl,1134143035,NY,Cardiology
+2023,14,132.0,Metformin Hcl Er,Metformin Hcl,1134143035,NY,Cardiology
+2023,247,3704.19,Metoprolol Succinate,Metoprolol Succinate,1134143035,NY,Cardiology
+2023,27,312.55,Metoprolol Tartrate,Metoprolol Tartrate,1134143035,NY,Cardiology
+2023,12,712.42,Midodrine Hcl,Midodrine Hcl,1134143035,NY,Cardiology
+2023,15,126.19,Mupirocin,Mupirocin,1134143035,NY,Cardiology
+2023,21,157.54,Prednisone,Prednisone,1134143035,NY,Cardiology
+2023,100,1006.78,Ramipril,Ramipril,1134143035,NY,Cardiology
+2023,15,3423.79,Ranolazine Er,Ranolazine,1134143035,NY,Cardiology
+2023,110,3420.68,Rosuvastatin Calcium,Rosuvastatin Calcium,1134143035,NY,Cardiology
+2023,28,398.89,Simvastatin,Simvastatin,1134143035,NY,Cardiology
+2023,15,169.05,Ssd,Silver Sulfadiazine,1134143035,NY,Cardiology
+2023,15,6271.58,Symbicort,Budesonide/Formoterol Fumarate,1134143035,NY,Cardiology
+2023,15,304.38,Tamsulosin Hcl,Tamsulosin Hcl,1134143035,NY,Cardiology
+2023,14,110.88,Torsemide,Torsemide,1134143035,NY,Cardiology
+2023,15,339.9,Trueplus Insulin Syringe,"Syringe And Needle,insulin,1ml",1134143035,NY,Cardiology
+2023,29,761.25,Valsartan,Valsartan,1134143035,NY,Cardiology
+2023,12,30.74,Zolpidem Tartrate,Zolpidem Tartrate,1134143035,NY,Cardiology
+2023,12,152.28,Atenolol,Atenolol,1134143472,AR,Nurse Practitioner
+2023,20,278.53,Acyclovir,Acyclovir,1134143209,WA,Family Practice
+2023,57,2340.42,Albuterol Sulfate Hfa,Albuterol Sulfate,1134143209,WA,Family Practice
+2023,29,291.47,Alendronate Sodium,Alendronate Sodium,1134143209,WA,Family Practice
+2023,15,216.95,Alfuzosin Hcl Er,Alfuzosin Hcl,1134143209,WA,Family Practice
+2023,31,611.14,Allopurinol,Allopurinol,1134143209,WA,Family Practice
+2023,18,131.0,Alprazolam,Alprazolam,1134143209,WA,Family Practice
+2023,11,615.65,Amitriptyline Hcl,Amitriptyline Hcl,1134143209,WA,Family Practice
+2023,190,2604.31,Amlodipine Besylate,Amlodipine Besylate,1134143209,WA,Family Practice
+2023,139,2400.76,Atorvastatin Calcium,Atorvastatin Calcium,1134143209,WA,Family Practice
+2023,17,3161.07,Basaglar Kwikpen U-100,"Insulin Glargine,hum.Rec.Anlog",1134143209,WA,Family Practice
+2023,17,773.1,Bupropion Hcl Sr,Bupropion Hcl,1134143209,WA,Family Practice
+2023,15,901.0,Bupropion Xl,Bupropion Hcl,1134143209,WA,Family Practice
+2023,35,964.32,Buspirone Hcl,Buspirone Hcl,1134143209,WA,Family Practice
+2023,59,1173.14,Celecoxib,Celecoxib,1134143209,WA,Family Practice
+2023,15,85.85,Cephalexin,Cephalexin,1134143209,WA,Family Practice
+2023,41,349.95,Citalopram Hbr,Citalopram Hydrobromide,1134143209,WA,Family Practice
+2023,20,427.29,Clopidogrel,Clopidogrel Bisulfate,1134143209,WA,Family Practice
+2023,12,805.88,Clorazepate Dipotassium,Clorazepate Dipotassium,1134143209,WA,Family Practice
+2023,12,120.66,Dextroamphetamine-Amphetamine,Dextroamphetamine/Amphetamine,1134143209,WA,Family Practice
+2023,13,186.62,Dicyclomine Hcl,Dicyclomine Hcl,1134143209,WA,Family Practice
+2023,16,330.97,Doxepin Hcl,Doxepin Hcl,1134143209,WA,Family Practice
+2023,35,909.81,Duloxetine Hcl,Duloxetine Hcl,1134143209,WA,Family Practice
+2023,40,32389.47,Eliquis,Apixaban,1134143209,WA,Family Practice
+2023,68,1182.63,Escitalopram Oxalate,Escitalopram Oxalate,1134143209,WA,Family Practice
+2023,38,3036.34,Estradiol,Estradiol,1134143209,WA,Family Practice
+2023,21,767.99,Ezetimibe,Ezetimibe,1134143209,WA,Family Practice
+2023,52,925.16,Famotidine,Famotidine,1134143209,WA,Family Practice
+2023,18,12925.64,Farxiga,Dapagliflozin Propanediol,1134143209,WA,Family Practice
+2023,26,428.67,Finasteride,Finasteride,1134143209,WA,Family Practice
+2023,24,504.04,Fluticasone Propionate,Fluticasone Propionate,1134143209,WA,Family Practice
+2023,14,3118.38,Fluticasone-Salmeterol,Fluticasone Propion/Salmeterol,1134143209,WA,Family Practice
+2023,34,165.41,Hydrocodone-Acetaminophen,Hydrocodone/Acetaminophen,1154380780,OK,Emergency Medicine
+2023,17,74.17,Naproxen,Naproxen,1154380780,OK,Emergency Medicine
+2023,12,75.71,Potassium Chloride,Potassium Chloride,1154380780,OK,Emergency Medicine
+2023,18,43.95,Prednisone,Prednisone,1154380780,OK,Emergency Medicine
+2023,11,21.66,Tramadol Hcl,Tramadol Hcl,1154380780,OK,Emergency Medicine
+2023,73,6460.31,Amantadine,Amantadine Hcl,1154380798,NC,Neurology
+2023,12,89777.64,Austedo,Deutetrabenazine,1154380798,NC,Neurology
+2023,44,53484.78,Botox,Onabotulinumtoxina,1154380798,NC,Neurology
+2023,1152,70497.64,Carbidopa-Levodopa,Carbidopa/Levodopa,1154380798,NC,Neurology
+2023,443,38130.84,Carbidopa-Levodopa Er,Carbidopa/Levodopa,1154380798,NC,Neurology
+2023,126,540.68,Clonazepam,Clonazepam,1154380798,NC,Neurology
+2023,75,807.52,Donepezil Hcl,Donepezil Hcl,1154380798,NC,Neurology
+2023,12,8535.44,Droxidopa,Droxidopa,1154380798,NC,Neurology
+2023,21,405.03,Duloxetine Hcl,Duloxetine Hcl,1154380798,NC,Neurology
+2023,43,11427.87,Entacapone,Entacapone,1154380798,NC,Neurology
+2023,70,977.25,Escitalopram Oxalate,Escitalopram Oxalate,1154380798,NC,Neurology
+2023,11,61.95,Fluoxetine Hcl,Fluoxetine Hcl,1154380798,NC,Neurology
+2023,69,1196.21,Gabapentin,Gabapentin,1154380798,NC,Neurology
+2023,26,99051.16,Inbrija,Levodopa,1154380798,NC,Neurology
+2023,19,140831.84,Ingrezza,Valbenazine Tosylate,1154380798,NC,Neurology
+2023,12,512.58,Levetiracetam,Levetiracetam,1154380798,NC,Neurology
+2023,40,1791.79,Memantine Hcl,Memantine Hcl,1154380798,NC,Neurology
+2023,36,2548.77,Midodrine Hcl,Midodrine Hcl,1154380798,NC,Neurology
+2023,55,1123.96,Mirtazapine,Mirtazapine,1154380798,NC,Neurology
+2023,26,16383.05,Myobloc,Rimabotulinumtoxinb,1154380798,NC,Neurology
+2023,23,29365.53,Neupro,Rotigotine,1154380798,NC,Neurology
+2023,40,227771.46,Nuplazid,Pimavanserin Tartrate,1154380798,NC,Neurology
+2023,171,7606.24,Pramipexole Dihydrochloride,Pramipexole Di-Hcl,1154380798,NC,Neurology
+2023,281,12965.28,Primidone,Primidone,1154380798,NC,Neurology
+2023,55,1672.99,Propranolol Hcl,Propranolol Hcl,1154380798,NC,Neurology
+2023,55,923.43,Quetiapine Fumarate,Quetiapine Fumarate,1154380798,NC,Neurology
+2023,55,1981.66,Ropinirole Hcl,Ropinirole Hcl,1154380798,NC,Neurology
+2023,79,97816.21,Rytary,Carbidopa/Levodopa,1154380798,NC,Neurology
+2023,18,275.5,Topiramate,Topiramate,1154380798,NC,Neurology
+2023,47,479.25,Trazodone Hcl,Trazodone Hcl,1154380798,NC,Neurology
+2023,16,49.62,Amoxicillin,Amoxicillin,1154380848,CA,Dentist
+2023,49,921.56,Allopurinol,Allopurinol,1154381085,MA,Podiatry
+2023,89,1404.89,Ammonium Lactate,Ammonium Lactate,1154381085,MA,Podiatry
+2023,15,81.31,Amoxicillin,Amoxicillin,1154381085,MA,Podiatry
+2023,21,214.45,Amoxicillin-Clavulanate Potass,Amoxicillin/Potassium Clav,1154381085,MA,Podiatry
+2023,31,779.76,Cefdinir,Cefdinir,1154381085,MA,Podiatry
+2023,19,275.95,Ciclopirox,Ciclopirox,1154381085,MA,Podiatry
+2023,36,1134.41,Clotrimazole,Clotrimazole,1154381085,MA,Podiatry
+2023,50,1417.06,Colchicine,Colchicine,1154381085,MA,Podiatry
+2023,120,4879.28,Diclofenac Sodium,Diclofenac Sodium,1154381085,MA,Podiatry
+2023,16,232.62,Doxycycline Hyclate,Doxycycline Hyclate,1154381085,MA,Podiatry
+2023,94,1378.31,Gabapentin,Gabapentin,1154381085,MA,Podiatry
+2023,21,209.92,Ibuprofen,Ibuprofen,1154381085,MA,Podiatry
+2023,12,92.79,Indomethacin,Indomethacin,1154381085,MA,Podiatry
+2023,315,10391.89,Ketoconazole,Ketoconazole,1154381085,MA,Podiatry
+2023,14,352.67,Levofloxacin,Levofloxacin,1154381085,MA,Podiatry
+2023,53,760.5,Mupirocin,Mupirocin,1154381085,MA,Podiatry
+2023,68,619.63,Naproxen,Naproxen,1154381085,MA,Podiatry
+2023,107,1125.28,Oxycodone Hcl,Oxycodone Hcl,1154381085,MA,Podiatry
+2023,100,2416.3,Pregabalin,Pregabalin,1154381085,MA,Podiatry
+2023,12,122.36,Silver Sulfadiazine,Silver Sulfadiazine,1154381085,MA,Podiatry
+2023,18,132.86,Sulfamethoxazole-Trimethoprim,Sulfamethoxazole/Trimethoprim,1154381085,MA,Podiatry
+2023,86,1050.98,Terbinafine Hcl,Terbinafine Hcl,1154381085,MA,Podiatry
+2023,33,138.02,Tramadol Hcl,Tramadol Hcl,1154381085,MA,Podiatry
+2023,27,162.74,Triamcinolone Acetonide,Triamcinolone Acetonide,1154381085,MA,Podiatry
+2023,17,4370.89,Alphagan P,Brimonidine Tartrate,1154381101,SC,Optometry
+2023,42,731.69,Brimonidine Tartrate,Brimonidine Tartrate,1154381101,SC,Optometry
+2023,12,47.68,Cephalexin,Cephalexin,1154381101,SC,Optometry
+2023,22,15376.4,Cyclosporine,Cyclosporine,1154381101,SC,Optometry
+2023,16,195.46,Dorzolamide Hcl,Dorzolamide Hcl,1154381101,SC,Optometry
+2023,43,1671.43,Dorzolamide-Timolol,Dorzolamide Hcl/Timolol Maleat,1154381101,SC,Optometry
+2023,182,3495.72,Latanoprost,Latanoprost,1154381101,SC,Optometry
+2023,66,33538.47,Lumigan,Bimatoprost,1154381101,SC,Optometry
+2023,11,692.86,Prednisolone Acetate,Prednisolone Acetate,1154381101,SC,Optometry
+2023,45,44780.49,Restasis,Cyclosporine,1154381101,SC,Optometry
+2023,14,4720.83,Rhopressa,Netarsudil Mesylate,1154381101,SC,Optometry
+2023,16,5091.28,Rocklatan,Netarsudil Mesylat/Latanoprost,1154381101,SC,Optometry
+2023,53,777.02,Timolol Maleate,Timolol Maleate,1154381101,SC,Optometry
+2023,34,15047.85,Vyzulta,Latanoprostene Bunod,1154381101,SC,Optometry
+2023,37,38426.95,Xiidra,Lifitegrast,1154381101,SC,Optometry
+2023,23,1031.12,Estradiol,Estradiol,1154381234,CA,Obstetrics & Gynecology
+2023,23,52.89,Amoxicillin,Amoxicillin,1154381341,CA,Orthopedic Surgery
+2023,72,1445.7,Celecoxib,Celecoxib,1154381341,CA,Orthopedic Surgery
+2023,64,191.15,Gabapentin,Gabapentin,1154381341,CA,Orthopedic Surgery
+2023,20,177.62,Hydrocodone-Acetaminophen,Hydrocodone/Acetaminophen,1154381341,CA,Orthopedic Surgery
+2023,43,123.16,Meloxicam,Meloxicam,1154381341,CA,Orthopedic Surgery
+2023,90,465.8,Oxycodone Hcl,Oxycodone Hcl,1154381341,CA,Orthopedic Surgery
+2023,89,359.17,Tramadol Hcl,Tramadol Hcl,1154381341,CA,Orthopedic Surgery
+2023,53,32087.41,Advair Diskus,Fluticasone Propion/Salmeterol,1154381374,NH,Pulmonary Disease
+2023,17,16428.53,Advair Hfa,Fluticasone Propion/Salmeterol,1154381374,NH,Pulmonary Disease
+2023,78,3407.27,Albuterol Sulfate Hfa,Albuterol Sulfate,1154381374,NH,Pulmonary Disease
+2023,82,52195.34,Anoro Ellipta,Umeclidinium Brm/Vilanterol Tr,1154381374,NH,Pulmonary Disease
+2023,14,481.48,Azithromycin,Azithromycin,1154381374,NH,Pulmonary Disease
+2023,19,8886.95,Breo Ellipta,Fluticasone/Vilanterol,1154381374,NH,Pulmonary Disease
+2023,14,10527.56,Dulera,Mometasone/Formoterol,1154381374,NH,Pulmonary Disease
+2023,15,27.15,Furosemide,Furosemide,1154381374,NH,Pulmonary Disease
+2023,44,660.88,Montelukast Sodium,Montelukast Sodium,1154381374,NH,Pulmonary Disease
+2023,36,143.45,Prednisone,Prednisone,1154381374,NH,Pulmonary Disease
+2023,14,3556.72,Pulmicort Flexhaler,Budesonide,1154381374,NH,Pulmonary Disease
+2023,38,38411.85,Spiriva Handihaler,Tiotropium Bromide,1154381374,NH,Pulmonary Disease
+2023,46,36684.1,Spiriva Respimat,Tiotropium Bromide,1154381374,NH,Pulmonary Disease
+2023,46,28340.35,Symbicort,Budesonide/Formoterol Fumarate,1154381374,NH,Pulmonary Disease
+2023,82,79397.71,Trelegy Ellipta,Fluticasone/Umeclidin/Vilanter,1154381374,NH,Pulmonary Disease
+2023,28,2075.17,Ventolin Hfa,Albuterol Sulfate,1154381374,NH,Pulmonary Disease
+2023,17,7874.87,Wixela Inhub,Fluticasone Propion/Salmeterol,1154381374,NH,Pulmonary Disease
+2023,21,772.87,Cephalexin,Cephalexin,1154381465,SC,Neurosurgery
+2023,81,446.11,Cyclobenzaprine Hcl,Cyclobenzaprine Hcl,1154381465,SC,Neurosurgery
+2023,23,374.16,Diclofenac Sodium,Diclofenac Sodium,1154381465,SC,Neurosurgery
+2023,40,598.82,Gabapentin,Gabapentin,1154381465,SC,Neurosurgery
+2023,37,477.06,Hydrocodone-Acetaminophen,Hydrocodone/Acetaminophen,1154381465,SC,Neurosurgery
+2023,15,115.21,Methylprednisolone,Methylprednisolone,1154381465,SC,Neurosurgery
+2023,95,1278.29,Oxycodone-Acetaminophen,Oxycodone Hcl/Acetaminophen,1154381465,SC,Neurosurgery
+2023,20,110.4,Sulfamethoxazole-Trimethoprim,Sulfamethoxazole/Trimethoprim,1154381465,SC,Neurosurgery
+2023,86,421.35,Tramadol Hcl,Tramadol Hcl,1154381465,SC,Neurosurgery
+2023,16,2176.98,Brimonidine Tartrate,Brimonidine Tartrate,1154381770,SD,Optometry
+2023,14,68.58,Dorzolamide Hcl,Dorzolamide Hcl,1154381770,SD,Optometry
+2023,12,256.52,Doxycycline Hyclate,Doxycycline Hyclate,1154381770,SD,Optometry
+2023,374,4093.12,Latanoprost,Latanoprost,1154381770,SD,Optometry
+2023,12,167.86,Neomycin-Polymyxin-Dexameth,Neomycin/Polymyxin B/Dexametha,1154381770,SD,Optometry
+2023,14,517.91,Prednisolone Acetate,Prednisolone Acetate,1154381770,SD,Optometry
+2023,11,8011.42,Restasis,Cyclosporine,1154381770,SD,Optometry
+2023,96,508.16,Timolol Maleate,Timolol Maleate,1154381770,SD,Optometry
+2023,24,4076.63,Travoprost,Travoprost,1154381770,SD,Optometry
+2023,21,5732.15,Vyzulta,Latanoprostene Bunod,1154381770,SD,Optometry
+2023,15,61.18,Amoxicillin,Amoxicillin,1154381887,NY,Otolaryngology
+2023,71,785.81,Amoxicillin-Clavulanate Potass,Amoxicillin/Potassium Clav,1154381887,NY,Otolaryngology
+2023,39,1990.35,Azelastine Hcl,Azelastine Hcl,1154381887,NY,Otolaryngology
+2023,18,2639.3,Ciprofloxacin-Dexamethasone,Ciprofloxacin Hcl/Dexameth,1154381887,NY,Otolaryngology
+2023,179,2442.76,Famotidine,Famotidine,1154381887,NY,Otolaryngology
+2023,521,10112.0,Fluticasone Propionate,Fluticasone Propionate,1154381887,NY,Otolaryngology
+2023,203,8539.37,Ipratropium Bromide,Ipratropium Bromide,1154381887,NY,Otolaryngology
+2023,305,11853.58,Mometasone Furoate,Mometasone Furoate,1154381887,NY,Otolaryngology
+2023,20,307.91,Montelukast Sodium,Montelukast Sodium,1154381887,NY,Otolaryngology
+2023,126,1134.42,Mupirocin,Mupirocin,1154381887,NY,Otolaryngology
+2023,86,4374.63,Ofloxacin,Ofloxacin,1154381887,NY,Otolaryngology
+2023,37,1589.23,Sucralfate,Sucralfate,1154381887,NY,Otolaryngology
+2023,65,1999.17,Triamcinolone Acetonide,Triamcinolone Acetonide,1154381887,NY,Otolaryngology
+2023,88,801.66,Amlodipine Besylate,Amlodipine Besylate,1154381903,OH,Cardiology
+2023,234,2952.39,Atorvastatin Calcium,Atorvastatin Calcium,1154381903,OH,Cardiology
+2023,56,576.51,Carvedilol,Carvedilol,1154381903,OH,Cardiology
+2023,38,662.02,Clopidogrel,Clopidogrel Bisulfate,1154381903,OH,Cardiology
+2023,18,140.98,Glimepiride,Glimepiride,1184174906,VA,Nurse Practitioner
+2023,36,248.01,Glipizide,Glipizide,1184174906,VA,Nurse Practitioner
+2023,46,17179.27,Humulin 70-30,Insulin Nph Hum/Reg Insulin Hm,1184174906,VA,Nurse Practitioner
+2023,27,28906.47,Humulin 70/30 Kwikpen,Insulin Nph Hum/Reg Insulin Hm,1184174906,VA,Nurse Practitioner
+2023,12,8421.69,Humulin N,Insulin Nph Human Isophane,1184174906,VA,Nurse Practitioner
+2023,27,186.83,Hydrochlorothiazide,Hydrochlorothiazide,1184174906,VA,Nurse Practitioner
+2023,15,3007.49,Insulin Lispro Kwikpen U-100,Insulin Lispro,1184174906,VA,Nurse Practitioner
+2023,12,15660.2,Januvia,Sitagliptin Phosphate,1184174906,VA,Nurse Practitioner
+2023,12,21078.37,Jardiance,Empagliflozin,1184174906,VA,Nurse Practitioner
+2023,17,6288.91,Lantus Solostar,"Insulin Glargine,hum.Rec.Anlog",1184174906,VA,Nurse Practitioner
+2023,19,378.5,Levothyroxine Sodium,Levothyroxine Sodium,1184174906,VA,Nurse Practitioner
+2023,60,224.6,Lisinopril,Lisinopril,1184174906,VA,Nurse Practitioner
+2023,14,85.72,Lisinopril-Hydrochlorothiazide,Lisinopril/Hydrochlorothiazide,1184174906,VA,Nurse Practitioner
+2023,51,302.23,Losartan Potassium,Losartan Potassium,1184174906,VA,Nurse Practitioner
+2023,15,162.27,Losartan-Hydrochlorothiazide,Losartan/Hydrochlorothiazide,1184174906,VA,Nurse Practitioner
+2023,14,27.1,Meloxicam,Meloxicam,1184174906,VA,Nurse Practitioner
+2023,58,375.14,Metformin Hcl,Metformin Hcl,1184174906,VA,Nurse Practitioner
+2023,40,408.9,Metformin Hcl Er,Metformin Hcl,1184174906,VA,Nurse Practitioner
+2023,11,100.12,Metoprolol Tartrate,Metoprolol Tartrate,1184174906,VA,Nurse Practitioner
+2023,22,2118.02,Nano 2nd Gen Pen Needle,"Pen Needle, Diabetic",1184174906,VA,Nurse Practitioner
+2023,12,103.31,Omega-3 Acid Ethyl Esters,Omega-3 Acid Ethyl Esters,1184174906,VA,Nurse Practitioner
+2023,21,412.52,Omeprazole,Omeprazole,1184174906,VA,Nurse Practitioner
+2023,22,40332.91,Ozempic,Semaglutide,1184174906,VA,Nurse Practitioner
+2023,15,238.51,Pantoprazole Sodium,Pantoprazole Sodium,1184174906,VA,Nurse Practitioner
+2023,16,230.07,Pravastatin Sodium,Pravastatin Sodium,1184174906,VA,Nurse Practitioner
+2023,37,100.73,Prednisone,Prednisone,1184174906,VA,Nurse Practitioner
+2023,25,267.77,Rosuvastatin Calcium,Rosuvastatin Calcium,1184174906,VA,Nurse Practitioner
+2023,18,164.77,Simvastatin,Simvastatin,1184174906,VA,Nurse Practitioner
+2023,13,198.51,Tamsulosin Hcl,Tamsulosin Hcl,1184174906,VA,Nurse Practitioner
+2023,12,111.27,Tizanidine Hcl,Tizanidine Hcl,1184174906,VA,Nurse Practitioner
+2023,15,584.56,Valsartan-Hydrochlorothiazide,Valsartan/Hydrochlorothiazide,1184174906,VA,Nurse Practitioner
+2023,12,1252.87,Azathioprine,Azathioprine,1184175168,TX,Nurse Practitioner
+2023,38,2942.91,Colestipol Hcl,Colestipol Hcl,1184175168,TX,Nurse Practitioner
+2023,21,59057.62,Creon,Lipase/Protease/Amylase,1184175168,TX,Nurse Practitioner
+2023,32,14152.5,Dexlansoprazole Dr,Dexlansoprazole,1184175168,TX,Nurse Practitioner
+2023,60,1731.6,Dicyclomine Hcl,Dicyclomine Hcl,1184175168,TX,Nurse Practitioner
+2023,18,222.33,Diltiazem Hcl,Diltiazem Hcl,1184175168,TX,Nurse Practitioner
+2023,15,442.35,Diphenoxylate-Atropine,Diphenoxylate Hcl/Atropine,1184175168,TX,Nurse Practitioner
+2023,96,6295.83,Esomeprazole Magnesium,Esomeprazole Magnesium,1184175168,TX,Nurse Practitioner
+2023,249,4728.28,Famotidine,Famotidine,1184175168,TX,Nurse Practitioner
+2023,31,166.03,Furosemide,Furosemide,1184175168,TX,Nurse Practitioner
+2023,20,348.23,Gavilyte-G,"Peg3350/Sod Sulf,bicarb,cl/Kcl",1184175168,TX,Nurse Practitioner
+2023,28,2327.16,Lactulose,Lactulose,1184175168,TX,Nurse Practitioner
+2023,12,382.37,Lidocaine Hcl Viscous,Lidocaine Hcl,1184175168,TX,Nurse Practitioner
+2023,163,177708.1,Linzess,Linaclotide,1184175168,TX,Nurse Practitioner
+2023,19,5840.32,Lubiprostone,Lubiprostone,1184175168,TX,Nurse Practitioner
+2023,21,159.38,Metoclopramide Hcl,Metoclopramide Hcl,1184175168,TX,Nurse Practitioner
+2023,168,3341.96,Omeprazole,Omeprazole,1184175168,TX,Nurse Practitioner
+2023,35,948.74,Ondansetron Hcl,Ondansetron Hcl,1184175168,TX,Nurse Practitioner
+2023,42,2708.07,Ondansetron Odt,Ondansetron,1184175168,TX,Nurse Practitioner
+2023,421,6508.0,Pantoprazole Sodium,Pantoprazole Sodium,1184175168,TX,Nurse Practitioner
+2023,56,840.74,Promethazine Hcl,Promethazine Hcl,1184175168,TX,Nurse Practitioner
+2023,26,516.2,Spironolactone,Spironolactone,1184175168,TX,Nurse Practitioner
+2023,13,2532.85,Sucralfate,Sucralfate,1184175168,TX,Nurse Practitioner
+2023,23,34959.22,Trulance,Plecanatide,1184175168,TX,Nurse Practitioner
+2023,35,110156.22,Xifaxan,Rifaximin,1184175168,TX,Nurse Practitioner
+2023,14,20880.56,Zenpep,Lipase/Protease/Amylase,1184175168,TX,Nurse Practitioner
+2023,30,102.2,Alprazolam,Alprazolam,1184175697,MD,Nurse Practitioner
+2023,17,101.88,Escitalopram Oxalate,Escitalopram Oxalate,1184175697,MD,Nurse Practitioner
+2023,14,98.84,Quetiapine Fumarate,Quetiapine Fumarate,1184175697,MD,Nurse Practitioner
+2023,108,5639.94,Albuterol Sulfate Hfa,Albuterol Sulfate,1184175739,TN,Physician Assistant
+2023,17,182.72,Alendronate Sodium,Alendronate Sodium,1184175739,TN,Physician Assistant
+2023,18,240.13,Allopurinol,Allopurinol,1184175739,TN,Physician Assistant
+2023,77,483.04,Alprazolam,Alprazolam,1184175739,TN,Physician Assistant
+2023,21,503.38,Amitriptyline Hcl,Amitriptyline Hcl,1184175739,TN,Physician Assistant
+2023,170,1542.63,Amlodipine Besylate,Amlodipine Besylate,1184175739,TN,Physician Assistant
+2023,13,180.35,Amlodipine Besylate-Benazepril,Amlodipine Besylate/Benazepril,1184175739,TN,Physician Assistant
+2023,40,148.46,Amoxicillin,Amoxicillin,1184175739,TN,Physician Assistant
+2023,99,1039.39,Amoxicillin-Clavulanate Potass,Amoxicillin/Potassium Clav,1184175739,TN,Physician Assistant
+2023,23,1395.92,Armour Thyroid,"Thyroid,pork",1184175739,TN,Physician Assistant
+2023,56,688.55,Atenolol,Atenolol,1184175739,TN,Physician Assistant
+2023,285,4583.26,Atorvastatin Calcium,Atorvastatin Calcium,1184175739,TN,Physician Assistant
+2023,124,963.07,Azithromycin,Azithromycin,1184175739,TN,Physician Assistant
+2023,27,524.54,Baclofen,Baclofen,1184175739,TN,Physician Assistant
+2023,16,289.15,Benazepril Hcl,Benazepril Hcl,1184175739,TN,Physician Assistant
+2023,28,21139.08,Breo Ellipta,Fluticasone/Vilanterol,1184175739,TN,Physician Assistant
+2023,23,890.07,Bupropion Xl,Bupropion Hcl,1184175739,TN,Physician Assistant
+2023,31,415.53,Buspirone Hcl,Buspirone Hcl,1184175739,TN,Physician Assistant
+2023,47,719.94,Carvedilol,Carvedilol,1184175739,TN,Physician Assistant
+2023,21,380.0,Cefdinir,Cefdinir,1184175739,TN,Physician Assistant
+2023,22,116.47,Cephalexin,Cephalexin,1184175739,TN,Physician Assistant
+2023,57,315.41,Ciprofloxacin Hcl,Ciprofloxacin Hcl,1184175739,TN,Physician Assistant
+2023,70,1068.38,Citalopram Hbr,Citalopram Hydrobromide,1184175739,TN,Physician Assistant
+2023,22,170.69,Clindamycin Hcl,Clindamycin Hcl,1184175739,TN,Physician Assistant
+2023,34,1866.15,Clobetasol Propionate,Clobetasol Propionate,1184175739,TN,Physician Assistant
+2023,26,222.68,Clonazepam,Clonazepam,1184175739,TN,Physician Assistant
+2023,47,734.99,Clopidogrel,Clopidogrel Bisulfate,1184175739,TN,Physician Assistant
+2023,11,2743.17,Colesevelam Hcl,Colesevelam Hcl,1184175739,TN,Physician Assistant
+2023,11,1080.75,Comfort Ez Pen Needle,"Pen Needle, Diabetic",1184175739,TN,Physician Assistant
+2023,25,163.68,Cyclobenzaprine Hcl,Cyclobenzaprine Hcl,1184175739,TN,Physician Assistant
+2023,93,713.38,Dexamethasone,Dexamethasone,1184175739,TN,Physician Assistant
+2023,12,1327.2,Dexlansoprazole Dr,Dexlansoprazole,1184175739,TN,Physician Assistant
+2023,30,83.24,Diazepam,Diazepam,1184175739,TN,Physician Assistant
+2023,26,1409.85,Diclofenac Sodium,Diclofenac Sodium,1184175739,TN,Physician Assistant
+2023,29,904.33,Dicyclomine Hcl,Dicyclomine Hcl,1184175739,TN,Physician Assistant
+2023,13,187.29,Doxazosin Mesylate,Doxazosin Mesylate,1184175739,TN,Physician Assistant
+2023,71,1203.83,Doxycycline Hyclate,Doxycycline Hyclate,1184175739,TN,Physician Assistant
+2023,57,1788.15,Duloxetine Hcl,Duloxetine Hcl,1184175739,TN,Physician Assistant
+2023,66,66808.29,Eliquis,Apixaban,1184175739,TN,Physician Assistant
+2023,16,284.89,Escitalopram Oxalate,Escitalopram Oxalate,1184175739,TN,Physician Assistant
+2023,18,345.86,Estradiol,Estradiol,1184175739,TN,Physician Assistant
+2023,11,556.87,Eszopiclone,Eszopiclone,1184175739,TN,Physician Assistant
+2023,34,1384.89,Ezetimibe,Ezetimibe,1184175739,TN,Physician Assistant
+2023,68,1443.71,Famotidine,Famotidine,1184175739,TN,Physician Assistant
+2023,19,566.78,Fenofibrate,Fenofibrate,1184175739,TN,Physician Assistant
+2023,12,291.35,Fenofibrate,Fenofibrate,1184175739,TN,Physician Assistant
+2023,33,187.17,Finasteride,Finasteride,1184175739,TN,Physician Assistant
+2023,53,499.45,Fluconazole,Fluconazole,1184175739,TN,Physician Assistant
+2023,11,1107.13,Fluocinolone Acetonide,Fluocinolone/Shower Cap,1184175739,TN,Physician Assistant
+2023,19,2450.21,Fluorouracil,Fluorouracil,1184175739,TN,Physician Assistant
+2023,59,465.7,Fluoxetine Hcl,Fluoxetine Hcl,1184175739,TN,Physician Assistant
+2023,46,778.91,Fluticasone Propionate,Fluticasone Propionate,1184175739,TN,Physician Assistant
+2023,91,556.54,Furosemide,Furosemide,1184175739,TN,Physician Assistant
+2023,122,2755.52,Gabapentin,Gabapentin,1184175739,TN,Physician Assistant
+2023,74,1101.01,Glimepiride,Glimepiride,1184175739,TN,Physician Assistant
+2023,12,10555.57,Humalog Kwikpen U-200,Insulin Lispro,1184175739,TN,Physician Assistant
+2023,15,89.14,Hydralazine Hcl,Hydralazine Hcl,1184175739,TN,Physician Assistant
+2023,66,342.23,Hydrochlorothiazide,Hydrochlorothiazide,1184175739,TN,Physician Assistant
+2023,15,164.25,Hydrocodone-Acetaminophen,Hydrocodone/Acetaminophen,1184175739,TN,Physician Assistant
+2023,15,652.4,Hydroxyzine Hcl,Hydroxyzine Hcl,1184175739,TN,Physician Assistant
+2023,13,128.36,Hydroxyzine Pamoate,Hydroxyzine Pamoate,1184175739,TN,Physician Assistant
+2023,17,74.02,Ibuprofen,Ibuprofen,1184175739,TN,Physician Assistant
+2023,12,7795.23,Invokana,Canagliflozin,1184175739,TN,Physician Assistant
+2023,28,407.62,Isosorbide Mononitrate Er,Isosorbide Mononitrate,1184175739,TN,Physician Assistant
+2023,22,35921.62,Jardiance,Empagliflozin,1184175739,TN,Physician Assistant
+2023,44,1479.37,Ketoconazole,Ketoconazole,1184175739,TN,Physician Assistant
+2023,27,1285.7,Lagevrio (Eua),Molnupiravir,1184175739,TN,Physician Assistant
+2023,50,22945.02,Lantus Solostar,"Insulin Glargine,hum.Rec.Anlog",1184175739,TN,Physician Assistant
+2023,14,210.12,Levetiracetam,Levetiracetam,1184175739,TN,Physician Assistant
+2023,37,302.23,Levocetirizine Dihydrochloride,Levocetirizine Dihydrochloride,1184175739,TN,Physician Assistant
+2023,222,3725.31,Levothyroxine Sodium,Levothyroxine Sodium,1184175739,TN,Physician Assistant
+2023,13,1023.95,Lidocaine,Lidocaine,1184175739,TN,Physician Assistant
+2023,19,15748.73,Linzess,Linaclotide,1184175739,TN,Physician Assistant
+2023,211,2173.79,Lisinopril,Lisinopril,1184175739,TN,Physician Assistant
+2023,35,517.25,Lisinopril-Hydrochlorothiazide,Lisinopril/Hydrochlorothiazide,1184175739,TN,Physician Assistant
+2023,29,628.92,Lorazepam,Lorazepam,1184175739,TN,Physician Assistant
+2023,80,1610.04,Pantoprazole Sodium,Pantoprazole Sodium,1235380254,SC,Nurse Practitioner
+2023,18,521.47,Potassium Chloride,Potassium Chloride,1235380254,SC,Nurse Practitioner
+2023,29,698.96,Pravastatin Sodium,Pravastatin Sodium,1235380254,SC,Nurse Practitioner
+2023,20,211.87,Prednisone,Prednisone,1235380254,SC,Nurse Practitioner
+2023,11,73.02,Rizatriptan,Rizatriptan Benzoate,1235380254,SC,Nurse Practitioner
+2023,177,3913.44,Rosuvastatin Calcium,Rosuvastatin Calcium,1235380254,SC,Nurse Practitioner
+2023,12,209.5,Sertraline Hcl,Sertraline Hcl,1235380254,SC,Nurse Practitioner
+2023,66,807.13,Simvastatin,Simvastatin,1235380254,SC,Nurse Practitioner
+2023,16,92.51,Sumatriptan Succinate,Sumatriptan Succinate,1235380254,SC,Nurse Practitioner
+2023,30,617.06,Tamsulosin Hcl,Tamsulosin Hcl,1235380254,SC,Nurse Practitioner
+2023,12,171.31,Tizanidine Hcl,Tizanidine Hcl,1235380254,SC,Nurse Practitioner
+2023,42,614.82,Trazodone Hcl,Trazodone Hcl,1235380254,SC,Nurse Practitioner
+2023,13,546.85,Trueplus Pen Needle,"Pen Needle, Diabetic",1235380254,SC,Nurse Practitioner
+2023,17,403.77,Venlafaxine Hcl Er,Venlafaxine Hcl,1235380254,SC,Nurse Practitioner
+2023,11,75.9,Amlodipine Besylate,Amlodipine Besylate,1235380767,NJ,Internal Medicine
+2023,12,59.53,Cephalexin,Cephalexin,1235380767,NJ,Internal Medicine
+2023,17,10595.23,Eliquis,Apixaban,1235380767,NJ,Internal Medicine
+2023,16,65.22,Furosemide,Furosemide,1235380767,NJ,Internal Medicine
+2023,11,229.72,Metoprolol Succinate,Metoprolol Succinate,1235380767,NJ,Internal Medicine
+2023,20,156.81,Pantoprazole Sodium,Pantoprazole Sodium,1235380767,NJ,Internal Medicine
+2023,17,31.77,Prednisone,Prednisone,1235380767,NJ,Internal Medicine
+2023,38,135.84,Amoxicillin,Amoxicillin,1235381153,CT,Dentist
+2023,51,604.74,Oxycodone Hcl,Oxycodone Hcl,1235381419,NC,Physician Assistant
+2023,20,138.32,Oxycodone-Acetaminophen,Oxycodone Hcl/Acetaminophen,1235381419,NC,Physician Assistant
+2023,101,1358.63,Tamsulosin Hcl,Tamsulosin Hcl,1235381419,NC,Physician Assistant
+2023,14,46.08,Amlodipine Besylate,Amlodipine Besylate,1235381971,SC,Hospitalist
+2023,18,148.98,Amoxicillin-Clavulanate Potass,Amoxicillin/Potassium Clav,1235381971,SC,Hospitalist
+2023,11,52.81,Ciprofloxacin Hcl,Ciprofloxacin Hcl,1235381971,SC,Hospitalist
+2023,11,30.43,Doxycycline Hyclate,Doxycycline Hyclate,1235381971,SC,Hospitalist
+2023,12,1463.56,Ethambutol Hcl,Ethambutol Hcl,1235381971,SC,Hospitalist
+2023,25,131.7,Furosemide,Furosemide,1235381971,SC,Hospitalist
+2023,29,254.22,Pantoprazole Sodium,Pantoprazole Sodium,1235381971,SC,Hospitalist
+2023,30,191.88,Prednisone,Prednisone,1235381971,SC,Hospitalist
+2023,12,1378.72,Rifampin,Rifampin,1235381971,SC,Hospitalist
+2023,12,502.6,Albuterol Sulfate Hfa,Albuterol Sulfate,1235382052,CA,Emergency Medicine
+2023,37,505.08,Alendronate Sodium,Alendronate Sodium,1235382052,CA,Emergency Medicine
+2023,37,750.0,Amlodipine Besylate,Amlodipine Besylate,1235382052,CA,Emergency Medicine
+2023,73,1896.51,Atorvastatin Calcium,Atorvastatin Calcium,1235382052,CA,Emergency Medicine
+2023,19,5389.92,Basaglar Kwikpen U-100,"Insulin Glargine,hum.Rec.Anlog",1235382052,CA,Emergency Medicine
+2023,11,91.66,Cephalexin,Cephalexin,1235382052,CA,Emergency Medicine
+2023,11,185.44,Clopidogrel,Clopidogrel Bisulfate,1235382052,CA,Emergency Medicine
+2023,11,279.56,Gabapentin,Gabapentin,1235382052,CA,Emergency Medicine
+2023,22,470.78,Levothyroxine Sodium,Levothyroxine Sodium,1235382052,CA,Emergency Medicine
+2023,47,878.76,Lisinopril,Lisinopril,1235382052,CA,Emergency Medicine
+2023,28,514.39,Losartan Potassium,Losartan Potassium,1235382052,CA,Emergency Medicine
+2023,15,497.18,Losartan-Hydrochlorothiazide,Losartan/Hydrochlorothiazide,1235382052,CA,Emergency Medicine
+2023,50,738.41,Metformin Hcl,Metformin Hcl,1235382052,CA,Emergency Medicine
+2023,18,355.79,Metoprolol Succinate,Metoprolol Succinate,1235382052,CA,Emergency Medicine
+2023,15,19369.63,Ozempic,Semaglutide,1235382052,CA,Emergency Medicine
+2023,16,419.67,Pioglitazone Hcl,Pioglitazone Hcl,1235382052,CA,Emergency Medicine
+2023,13,1001.75,Rosuvastatin Calcium,Rosuvastatin Calcium,1235382052,CA,Emergency Medicine
+2023,15,246.83,Tamsulosin Hcl,Tamsulosin Hcl,1235382052,CA,Emergency Medicine
+2023,12,380.6,Telmisartan,Telmisartan,1235382052,CA,Emergency Medicine
+2023,13,74.4,Amoxicillin,Amoxicillin,1235382557,OR,Dentist
+2023,28,161.87,Amoxicillin,Amoxicillin,1235382813,FL,Oral Surgery (Dentist only)
+2023,40,295.45,Hydrocodone-Acetaminophen,Hydrocodone/Acetaminophen,1235382813,FL,Oral Surgery (Dentist only)
+2023,20,2151.71,Estradiol,Estradiol,1235382888,WA,Physician Assistant
+2023,11,394.07,Nitrofurantoin Mono-Macro,Nitrofurantoin Monohyd/M-Cryst,1235382888,WA,Physician Assistant
+2023,21,6304.18,Premarin,"Estrogens, Conjugated",1235382888,WA,Physician Assistant
+2023,14,82.99,Amlodipine Besylate,Amlodipine Besylate,1235383274,IL,Nurse Practitioner
+2023,23,398.64,Atorvastatin Calcium,Atorvastatin Calcium,1235383274,IL,Nurse Practitioner
+2023,36,7361.59,Buprenorphine-Naloxone,Buprenorphine Hcl/Naloxone Hcl,1235383274,IL,Nurse Practitioner
+2023,11,229.18,Hydrocodone-Acetaminophen,Hydrocodone/Acetaminophen,1235383274,IL,Nurse Practitioner
+2023,11,58.02,Lisinopril,Lisinopril,1235383274,IL,Nurse Practitioner
+2023,11,263.3,Metoprolol Succinate,Metoprolol Succinate,1235383274,IL,Nurse Practitioner
+2023,11,148.58,Trazodone Hcl,Trazodone Hcl,1235383274,IL,Nurse Practitioner
+2023,24,157.23,Allopurinol,Allopurinol,1235383381,NC,Urology
+2023,52,921.94,Amitriptyline Hcl,Amitriptyline Hcl,1235383381,NC,Urology
+2023,46,480.34,Amoxicillin-Clavulanate Potass,Amoxicillin/Potassium Clav,1235383381,NC,Urology
+2023,17,233.06,Ampicillin Trihydrate,Ampicillin Trihydrate,1235383381,NC,Urology
+2023,102,1812.06,Cefdinir,Cefdinir,1235383381,NC,Urology
+2023,23,420.31,Cefuroxime,Cefuroxime Axetil,1235383381,NC,Urology
+2023,346,2725.12,Cephalexin,Cephalexin,1235383381,NC,Urology
+2023,42,184.68,Ciprofloxacin Hcl,Ciprofloxacin Hcl,1235383381,NC,Urology
+2023,25,1446.75,Dutasteride,Dutasteride,1235383381,NC,Urology
+2023,78,7882.09,Estradiol,Estradiol,1235383381,NC,Urology
+2023,42,5237.2,Fesoterodine Fumarate Er,Fesoterodine Fumarate,1235383381,NC,Urology
+2023,196,3552.91,Finasteride,Finasteride,1235383381,NC,Urology
+2023,41,267.16,Fluconazole,Fluconazole,1235383381,NC,Urology
+2023,21,2636.82,Fosfomycin Tromethamine,Fosfomycin Tromethamine,1235383381,NC,Urology
+2023,141,86903.63,Gemtesa,Vibegron,1235383381,NC,Urology
+2023,26,103.95,Hydrochlorothiazide,Hydrochlorothiazide,1235383381,NC,Urology
+2023,42,205.88,Hydrocodone-Acetaminophen,Hydrocodone/Acetaminophen,1235383381,NC,Urology
+2023,53,565.1,Hydroxyzine Hcl,Hydroxyzine Hcl,1235383381,NC,Urology
+2023,11,36.05,Levofloxacin,Levofloxacin,1235383381,NC,Urology
+2023,425,29995.72,Methenamine Hippurate,Methenamine Hippurate,1235383381,NC,Urology
+2023,561,379836.84,Myrbetriq,Mirabegron,1235383381,NC,Urology
+2023,26,1180.91,Nitrofurantoin,Nitrofurantoin Macrocrystal,1235383381,NC,Urology
+2023,89,1781.54,Nitrofurantoin Mono-Macro,Nitrofurantoin Monohyd/M-Cryst,1235383381,NC,Urology
+2023,38,433.9,Oxybutynin Chloride,Oxybutynin Chloride,1235383381,NC,Urology
+2023,324,8532.7,Oxybutynin Chloride Er,Oxybutynin Chloride,1235383381,NC,Urology
+2023,83,7640.18,Potassium Citrate Er,Potassium Citrate,1235383381,NC,Urology
+2023,12,5615.32,Premarin,"Estrogens, Conjugated",1235383381,NC,Urology
+2023,12,601.8,Silodosin,Silodosin,1235383381,NC,Urology
+2023,181,8675.56,Solifenacin Succinate,Solifenacin Succinate,1235383381,NC,Urology
+2023,99,578.16,Sulfamethoxazole-Trimethoprim,Sulfamethoxazole/Trimethoprim,1235383381,NC,Urology
+2023,428,7562.7,Tamsulosin Hcl,Tamsulosin Hcl,1235383381,NC,Urology
+2023,25,3688.97,Tolterodine Tartrate Er,Tolterodine Tartrate,1235383381,NC,Urology
+2023,16,25.1,Tramadol Hcl,Tramadol Hcl,1235383381,NC,Urology
+2023,121,6727.75,Trimethoprim,Trimethoprim,1235383381,NC,Urology
+2023,33,1664.33,Trospium Chloride,Trospium Chloride,1235383381,NC,Urology
+2023,46,6008.55,Trospium Chloride Er,Trospium Chloride,1235383381,NC,Urology
+2023,13,95.93,Amoxicillin-Clavulanate Potass,Amoxicillin/Potassium Clav,1235384058,CA,Family Practice
+2023,15,122.99,Atorvastatin Calcium,Atorvastatin Calcium,1235384058,CA,Family Practice
+2023,26,259.64,Cefdinir,Cefdinir,1235384058,CA,Family Practice
+2023,11,142.98,Diltiazem 24hr Er (Cd),Diltiazem Hcl,1235384058,CA,Family Practice
+2023,24,220.96,Doxycycline Hyclate,Doxycycline Hyclate,1235384058,CA,Family Practice
+2023,17,68.89,Furosemide,Furosemide,1235384058,CA,Family Practice
+2023,14,95.95,Losartan Potassium,Losartan Potassium,1235384058,CA,Family Practice
+2023,11,110.48,Metoprolol Succinate,Metoprolol Succinate,1235384058,CA,Family Practice
+2023,30,460.84,Pantoprazole Sodium,Pantoprazole Sodium,1235384058,CA,Family Practice
+2023,17,123.82,Prednisone,Prednisone,1235384058,CA,Family Practice
+2023,11,278.69,Cefdinir,Cefdinir,1235384355,KY,Emergency Medicine
+2023,70,1156.17,Acetaminophen-Codeine,Acetaminophen With Codeine,1235384439,TX,Internal Medicine
+2023,157,3891.91,Albuterol Sulfate Hfa,Albuterol Sulfate,1235384439,TX,Internal Medicine
+2023,117,1641.55,Alendronate Sodium,Alendronate Sodium,1235384439,TX,Internal Medicine
+2023,34,785.09,Allopurinol,Allopurinol,1235384439,TX,Internal Medicine
+2023,29,187.88,Alprazolam,Alprazolam,1235384439,TX,Internal Medicine
+2023,12,993.88,Amiodarone Hcl,Amiodarone Hcl,1235384439,TX,Internal Medicine
+2023,329,2129.79,Amlodipine Besylate,Amlodipine Besylate,1235384439,TX,Internal Medicine
+2023,15,503.35,Amlodipine Besylate-Benazepril,Amlodipine Besylate/Benazepril,1235384439,TX,Internal Medicine
+2023,50,625.19,Amoxicillin-Clavulanate Potass,Amoxicillin/Potassium Clav,1235384439,TX,Internal Medicine
+2023,14,108.7,Atenolol,Atenolol,1235384439,TX,Internal Medicine
+2023,810,11381.27,Atorvastatin Calcium,Atorvastatin Calcium,1235384439,TX,Internal Medicine
+2023,20,83.24,Azithromycin,Azithromycin,1235384439,TX,Internal Medicine
+2023,23,5620.7,Basaglar Kwikpen U-100,"Insulin Glargine,hum.Rec.Anlog",1235384439,TX,Internal Medicine
+2023,17,355.9,Benazepril Hcl,Benazepril Hcl,1235384439,TX,Internal Medicine
+2023,14,163.3,Benztropine Mesylate,Benztropine Mesylate,1235384439,TX,Internal Medicine
+2023,12,43617.84,Biktarvy,Bictegrav/Emtricit/Tenofov Ala,1235384439,TX,Internal Medicine
+2023,15,8918.93,Breo Ellipta,Fluticasone/Vilanterol,1235384439,TX,Internal Medicine
+2023,18,496.4,Bupropion Hcl Sr,Bupropion Hcl,1235384439,TX,Internal Medicine
+2023,53,3378.44,Buspirone Hcl,Buspirone Hcl,1235384439,TX,Internal Medicine
+2023,26,38931.87,Bydureon Bcise,Exenatide Microspheres,1235384439,TX,Internal Medicine
+2023,138,1675.73,Carvedilol,Carvedilol,1235384439,TX,Internal Medicine
+2023,16,359.9,Cefdinir,Cefdinir,1235384439,TX,Internal Medicine
+2023,51,2651.02,Celecoxib,Celecoxib,1235384439,TX,Internal Medicine
+2023,11,1138.22,Clonidine,Clonidine,1285945576,CA,Nurse Practitioner
+2023,12,224.23,Clonidine Hcl,Clonidine Hcl,1285945576,CA,Nurse Practitioner
+2023,14,71.74,Cyclobenzaprine Hcl,Cyclobenzaprine Hcl,1285945576,CA,Nurse Practitioner
+2023,48,839.99,Diclofenac Sodium,Diclofenac Sodium,1285945576,CA,Nurse Practitioner
+2023,25,247.18,Doxycycline Monohydrate,Doxycycline Monohydrate,1285945576,CA,Nurse Practitioner
+2023,21,26297.2,Eliquis,Apixaban,1285945576,CA,Nurse Practitioner
+2023,12,4864.8,Enoxaparin Sodium,Enoxaparin Sodium,1285945576,CA,Nurse Practitioner
+2023,13,234.18,Escitalopram Oxalate,Escitalopram Oxalate,1285945576,CA,Nurse Practitioner
+2023,18,586.85,Famotidine,Famotidine,1285945576,CA,Nurse Practitioner
+2023,25,566.89,Finasteride,Finasteride,1285945576,CA,Nurse Practitioner
+2023,11,5074.77,Flovent Hfa,Fluticasone Propionate,1285945576,CA,Nurse Practitioner
+2023,69,987.63,Fluticasone Propionate,Fluticasone Propionate,1285945576,CA,Nurse Practitioner
+2023,14,5998.71,Fluticasone-Salmeterol,Fluticasone Propion/Salmeterol,1285945576,CA,Nurse Practitioner
+2023,41,406.35,Furosemide,Furosemide,1285945576,CA,Nurse Practitioner
+2023,75,799.43,Gabapentin,Gabapentin,1285945576,CA,Nurse Practitioner
+2023,24,503.84,Glipizide Er,Glipizide,1285945576,CA,Nurse Practitioner
+2023,91,661.59,Hydrochlorothiazide,Hydrochlorothiazide,1285945576,CA,Nurse Practitioner
+2023,128,4463.17,Hydrocodone-Acetaminophen,Hydrocodone/Acetaminophen,1285945576,CA,Nurse Practitioner
+2023,14,82.71,Ibuprofen,Ibuprofen,1285945576,CA,Nurse Practitioner
+2023,13,687.62,Irbesartan,Irbesartan,1285945576,CA,Nurse Practitioner
+2023,34,48061.48,Januvia,Sitagliptin Phosphate,1285945576,CA,Nurse Practitioner
+2023,39,63472.29,Jardiance,Empagliflozin,1285945576,CA,Nurse Practitioner
+2023,40,1257.2,Ketoconazole,Ketoconazole,1285945576,CA,Nurse Practitioner
+2023,12,133.5,Lagevrio (Eua),Molnupiravir,1285945576,CA,Nurse Practitioner
+2023,122,3161.21,Levothyroxine Sodium,Levothyroxine Sodium,1285945576,CA,Nurse Practitioner
+2023,106,1296.36,Lisinopril,Lisinopril,1285945576,CA,Nurse Practitioner
+2023,25,97.12,Lorazepam,Lorazepam,1285945576,CA,Nurse Practitioner
+2023,213,3617.1,Losartan Potassium,Losartan Potassium,1285945576,CA,Nurse Practitioner
+2023,17,550.51,Losartan-Hydrochlorothiazide,Losartan/Hydrochlorothiazide,1285945576,CA,Nurse Practitioner
+2023,26,480.17,Lovastatin,Lovastatin,1285945576,CA,Nurse Practitioner
+2023,14,109.52,Meclizine Hcl,Meclizine Hcl,1285945576,CA,Nurse Practitioner
+2023,147,1656.37,Metformin Hcl,Metformin Hcl,1285945576,CA,Nurse Practitioner
+2023,18,198.68,Metformin Hcl Er,Metformin Hcl,1285945576,CA,Nurse Practitioner
+2023,53,414.73,Methylprednisolone,Methylprednisolone,1285945576,CA,Nurse Practitioner
+2023,104,2266.89,Metoprolol Succinate,Metoprolol Succinate,1285945576,CA,Nurse Practitioner
+2023,44,462.48,Metoprolol Tartrate,Metoprolol Tartrate,1285945576,CA,Nurse Practitioner
+2023,33,527.0,Montelukast Sodium,Montelukast Sodium,1285945576,CA,Nurse Practitioner
+2023,11,107.18,Naproxen,Naproxen,1285945576,CA,Nurse Practitioner
+2023,11,457.75,Nifedipine Er,Nifedipine,1285945576,CA,Nurse Practitioner
+2023,18,242.18,Nitrofurantoin Mono-Macro,Nitrofurantoin Monohyd/M-Cryst,1285945576,CA,Nurse Practitioner
+2023,15,1145.35,Olmesartan Medoxomil,Olmesartan Medoxomil,1285945576,CA,Nurse Practitioner
+2023,89,1478.99,Omeprazole,Omeprazole,1285945576,CA,Nurse Practitioner
+2023,23,28043.41,Ozempic,Semaglutide,1285945576,CA,Nurse Practitioner
+2023,25,323.53,Pantoprazole Sodium,Pantoprazole Sodium,1285945576,CA,Nurse Practitioner
+2023,67,1300.66,Potassium Chloride,Potassium Chloride,1285945576,CA,Nurse Practitioner
+2023,64,1479.02,Pravastatin Sodium,Pravastatin Sodium,1285945576,CA,Nurse Practitioner
+2023,17,1826.87,Pregabalin,Pregabalin,1285945576,CA,Nurse Practitioner
+2023,11,278.0,Propranolol Hcl,Propranolol Hcl,1285945576,CA,Nurse Practitioner
+2023,17,928.36,Repaglinide,Repaglinide,1285945576,CA,Nurse Practitioner
+2023,32,1251.24,Rosuvastatin Calcium,Rosuvastatin Calcium,1285945576,CA,Nurse Practitioner
+2023,59,869.85,Sertraline Hcl,Sertraline Hcl,1285945576,CA,Nurse Practitioner
+2023,20,174.54,Sildenafil Citrate,Sildenafil Citrate,1285945576,CA,Nurse Practitioner
+2023,71,980.07,Simvastatin,Simvastatin,1285945576,CA,Nurse Practitioner
+2023,76,1947.68,Tamsulosin Hcl,Tamsulosin Hcl,1285945576,CA,Nurse Practitioner
+2023,12,59.06,Temazepam,Temazepam,1285945576,CA,Nurse Practitioner
+2023,21,477.92,Terazosin Hcl,Terazosin Hcl,1285945576,CA,Nurse Practitioner
+2023,38,197.94,Tramadol Hcl,Tramadol Hcl,1285945576,CA,Nurse Practitioner
+2023,48,776.08,Trazodone Hcl,Trazodone Hcl,1285945576,CA,Nurse Practitioner
+2023,20,14906.78,Trelegy Ellipta,Fluticasone/Umeclidin/Vilanter,1285945576,CA,Nurse Practitioner
+2023,18,79.59,Triamcinolone Acetonide,Triamcinolone Acetonide,1285945576,CA,Nurse Practitioner
+2023,28,449.75,Triamterene-Hydrochlorothiazid,Triamterene/Hydrochlorothiazid,1285945576,CA,Nurse Practitioner
+2023,16,2994.36,Wixela Inhub,Fluticasone Propion/Salmeterol,1285945576,CA,Nurse Practitioner
+2023,17,180.47,Zolpidem Tartrate,Zolpidem Tartrate,1285945576,CA,Nurse Practitioner
+2023,15,521.83,Albuterol Sulfate Hfa,Albuterol Sulfate,1285945634,WI,Family Practice
+2023,19,203.73,Alendronate Sodium,Alendronate Sodium,1285945634,WI,Family Practice
+2023,51,378.45,Alprazolam,Alprazolam,1285945634,WI,Family Practice
+2023,51,431.53,Amlodipine Besylate,Amlodipine Besylate,1285945634,WI,Family Practice
+2023,11,225.17,Atenolol,Atenolol,1285945634,WI,Family Practice
+2023,112,1434.25,Atorvastatin Calcium,Atorvastatin Calcium,1285945634,WI,Family Practice
+2023,30,1150.93,Baclofen,Baclofen,1285945634,WI,Family Practice
+2023,12,258.51,Chlordiazepoxide Hcl,Chlordiazepoxide Hcl,1285945634,WI,Family Practice
+2023,38,475.21,Clonazepam,Clonazepam,1285945634,WI,Family Practice
+2023,12,150.97,Cyclobenzaprine Hcl,Cyclobenzaprine Hcl,1285945634,WI,Family Practice
+2023,34,2808.73,Dextroamphetamine-Amphet Er,Dextroamphetamine/Amphetamine,1285945634,WI,Family Practice
+2023,23,834.24,Duloxetine Hcl,Duloxetine Hcl,1285945634,WI,Family Practice
+2023,18,184.77,Escitalopram Oxalate,Escitalopram Oxalate,1285945634,WI,Family Practice
+2023,11,542.8,Ezetimibe,Ezetimibe,1285945634,WI,Family Practice
+2023,12,321.66,Famotidine,Famotidine,1285945634,WI,Family Practice
+2023,18,556.39,Fluticasone Propionate,Fluticasone Propionate,1285945634,WI,Family Practice
+2023,16,199.14,Furosemide,Furosemide,1285945634,WI,Family Practice
+2023,61,1083.69,Gabapentin,Gabapentin,1285945634,WI,Family Practice
+2023,31,129.38,Hydrochlorothiazide,Hydrochlorothiazide,1285945634,WI,Family Practice
+2023,66,1207.65,Hydrocodone-Acetaminophen,Hydrocodone/Acetaminophen,1285945634,WI,Family Practice
+2023,13,316.21,Hydroxyzine Hcl,Hydroxyzine Hcl,1285945634,WI,Family Practice
+2023,16,13313.0,Jardiance,Empagliflozin,1285945634,WI,Family Practice
+2023,63,801.94,Levothyroxine Sodium,Levothyroxine Sodium,1285945634,WI,Family Practice
+2023,84,529.41,Lisinopril,Lisinopril,1285945634,WI,Family Practice
+2023,19,239.89,Lisinopril-Hydrochlorothiazide,Lisinopril/Hydrochlorothiazide,1285945634,WI,Family Practice
+2023,23,213.09,Lorazepam,Lorazepam,1285945634,WI,Family Practice
+2023,68,877.22,Losartan Potassium,Losartan Potassium,1285945634,WI,Family Practice
+2023,49,846.79,Metformin Hcl Er,Metformin Hcl,1285945634,WI,Family Practice
+2023,13,517.62,Methylphenidate Hcl,Methylphenidate Hcl,1285945634,WI,Family Practice
+2023,36,602.13,Metoprolol Succinate,Metoprolol Succinate,1285945634,WI,Family Practice
+2023,46,332.64,Metoprolol Tartrate,Metoprolol Tartrate,1285945634,WI,Family Practice
+2023,69,1042.59,Omeprazole,Omeprazole,1285945634,WI,Family Practice
+2023,26,743.93,Oxycodone Hcl,Oxycodone Hcl,1285945634,WI,Family Practice
+2023,17,576.25,Oxycodone-Acetaminophen,Oxycodone Hcl/Acetaminophen,1285945634,WI,Family Practice
+2023,41,440.55,Pantoprazole Sodium,Pantoprazole Sodium,1285945634,WI,Family Practice
+2023,25,1860.85,Potassium Chloride,Potassium Chloride,1285945634,WI,Family Practice
+2023,34,722.32,Pravastatin Sodium,Pravastatin Sodium,1285945634,WI,Family Practice
+2023,15,2436.4,Pregabalin,Pregabalin,1285945634,WI,Family Practice
+2023,11,288.06,Prochlorperazine Maleate,Prochlorperazine Maleate,1285945634,WI,Family Practice
+2023,15,317.63,Propranolol Hcl,Propranolol Hcl,1285945634,WI,Family Practice
+2023,16,1075.07,Quetiapine Fumarate,Quetiapine Fumarate,1285945634,WI,Family Practice
+2023,18,312.19,Rosuvastatin Calcium,Rosuvastatin Calcium,1285945634,WI,Family Practice
+2023,38,629.59,Sertraline Hcl,Sertraline Hcl,1285945634,WI,Family Practice
+2023,21,89.89,Simvastatin,Simvastatin,1285945634,WI,Family Practice
+2023,29,419.52,Tamsulosin Hcl,Tamsulosin Hcl,1285945634,WI,Family Practice
+2023,14,305.9,Trazodone Hcl,Trazodone Hcl,1285945634,WI,Family Practice
+2023,11,679.27,Ventolin Hfa,Albuterol Sulfate,1285945634,WI,Family Practice
+2023,11,4449.48,Vyvanse,Lisdexamfetamine Dimesylate,1285945634,WI,Family Practice
+2023,12,232.39,Warfarin Sodium,Warfarin Sodium,1285945634,WI,Family Practice
+2023,18,28980.46,Xarelto,Rivaroxaban,1285945634,WI,Family Practice
+2023,22,136.29,Zolpidem Tartrate,Zolpidem Tartrate,1285945634,WI,Family Practice
+2023,22,571.02,Celecoxib,Celecoxib,1285945899,AL,Nurse Practitioner
+2023,12,256.31,Diclofenac Sodium,Diclofenac Sodium,1285945899,AL,Nurse Practitioner
+2023,15,551.62,Doxycycline Monohydrate,Doxycycline Monohydrate,1285945899,AL,Nurse Practitioner
+2023,20,158.79,Gabapentin,Gabapentin,1285945899,AL,Nurse Practitioner
+2023,81,542.98,Hydrocodone-Acetaminophen,Hydrocodone/Acetaminophen,1285945899,AL,Nurse Practitioner
+2023,21,307.15,Ibuprofen,Ibuprofen,1285945899,AL,Nurse Practitioner
+2023,142,543.01,Meloxicam,Meloxicam,1285945899,AL,Nurse Practitioner
+2023,81,286.5,Oxycodone Hcl,Oxycodone Hcl,1285945899,AL,Nurse Practitioner
+2023,11,44.41,Sulfamethoxazole-Trimethoprim,Sulfamethoxazole/Trimethoprim,1285945899,AL,Nurse Practitioner
+2023,93,585.81,Tizanidine Hcl,Tizanidine Hcl,1285945899,AL,Nurse Practitioner
+2023,45,124.56,Tramadol Hcl,Tramadol Hcl,1285945899,AL,Nurse Practitioner
+2023,45,360.58,Hydrocodone-Acetaminophen,Hydrocodone/Acetaminophen,1285945998,IA,Orthopedic Surgery
+2023,21,195.8,Oxycodone-Acetaminophen,Oxycodone Hcl/Acetaminophen,1285945998,IA,Orthopedic Surgery
+2023,13,51.59,Amoxicillin,Amoxicillin,1285946400,PA,Dentist
+2023,14,178.87,Amoxicillin-Clavulanate Potass,Amoxicillin/Potassium Clav,1285946400,PA,Dentist
+2023,45,913.84,Ammonium Lactate,Ammonium Lactate,1285946426,CT,Podiatry
+2023,39,1671.4,Ciclopirox,Ciclopirox,1285946426,CT,Podiatry
+2023,11,206.02,Doxycycline Monohydrate,Doxycycline Monohydrate,1285946426,CT,Podiatry
+2023,83,2611.57,Ketoconazole,Ketoconazole,1285946426,CT,Podiatry
+2023,30,283.46,Mupirocin,Mupirocin,1285946426,CT,Podiatry
+2023,51,170.01,Amoxicillin,Amoxicillin,1285946483,AZ,Dentist
+2023,15,63.39,Chlorhexidine Gluconate,Chlorhexidine Gluconate,1285946483,AZ,Dentist
+2023,21,102.95,Promethazine Hcl,Promethazine Hcl,1295710606,TN,Infectious Disease
+2023,33,627.5,Propranolol Hcl,Propranolol Hcl,1295710606,TN,Infectious Disease
+2023,13,1030.75,Propylthiouracil,Propylthiouracil,1295710606,TN,Infectious Disease
+2023,72,733.87,Quetiapine Fumarate,Quetiapine Fumarate,1295710606,TN,Infectious Disease
+2023,17,1515.95,Raloxifene Hcl,Raloxifene Hcl,1295710606,TN,Infectious Disease
+2023,22,2909.97,Ranolazine Er,Ranolazine,1295710606,TN,Infectious Disease
+2023,20,8386.03,Renvela,Sevelamer Carbonate,1295710606,TN,Infectious Disease
+2023,11,104.9,Risperidone,Risperidone,1295710606,TN,Infectious Disease
+2023,27,474.63,Ropinirole Hcl,Ropinirole Hcl,1295710606,TN,Infectious Disease
+2023,39,529.47,Rosuvastatin Calcium,Rosuvastatin Calcium,1295710606,TN,Infectious Disease
+2023,24,14066.63,Santyl,Collagenase Clostridium Hist.,1295710606,TN,Infectious Disease
+2023,47,1361.97,Scopolamine,Scopolamine,1295710606,TN,Infectious Disease
+2023,285,2495.68,Sertraline Hcl,Sertraline Hcl,1295710606,TN,Infectious Disease
+2023,20,1033.02,Silodosin,Silodosin,1295710606,TN,Infectious Disease
+2023,24,246.84,Simvastatin,Simvastatin,1295710606,TN,Infectious Disease
+2023,13,1412.5,Solifenacin Succinate,Solifenacin Succinate,1295710606,TN,Infectious Disease
+2023,27,14619.27,Spiriva Handihaler,Tiotropium Bromide,1295710606,TN,Infectious Disease
+2023,93,1044.37,Spironolactone,Spironolactone,1295710606,TN,Infectious Disease
+2023,40,133.69,Sulfamethoxazole-Trimethoprim,Sulfamethoxazole/Trimethoprim,1295710606,TN,Infectious Disease
+2023,11,323.77,Sulfasalazine,Sulfasalazine,1295710606,TN,Infectious Disease
+2023,152,2332.07,Tamsulosin Hcl,Tamsulosin Hcl,1295710606,TN,Infectious Disease
+2023,65,783.53,Tizanidine Hcl,Tizanidine Hcl,1295710606,TN,Infectious Disease
+2023,11,188.05,Tobramycin,Tobramycin,1295710606,TN,Infectious Disease
+2023,12,1986.25,Tolterodine Tartrate Er,Tolterodine Tartrate,1295710606,TN,Infectious Disease
+2023,39,585.26,Topiramate,Topiramate,1295710606,TN,Infectious Disease
+2023,60,555.53,Torsemide,Torsemide,1295710606,TN,Infectious Disease
+2023,247,1388.48,Tramadol Hcl,Tramadol Hcl,1295710606,TN,Infectious Disease
+2023,229,2215.39,Trazodone Hcl,Trazodone Hcl,1295710606,TN,Infectious Disease
+2023,31,21065.72,Trelegy Ellipta,Fluticasone/Umeclidin/Vilanter,1295710606,TN,Infectious Disease
+2023,17,226.34,Triamcinolone Acetonide,Triamcinolone Acetonide,1295710606,TN,Infectious Disease
+2023,22,225.15,Triamterene-Hydrochlorothiazid,Triamterene/Hydrochlorothiazid,1295710606,TN,Infectious Disease
+2023,14,1294.41,Ursodiol,Ursodiol,1295710606,TN,Infectious Disease
+2023,13,369.86,Valsartan,Valsartan,1295710606,TN,Infectious Disease
+2023,41,971.64,Venlafaxine Hcl Er,Venlafaxine Hcl,1295710606,TN,Infectious Disease
+2023,26,1661.64,Ventolin Hfa,Albuterol Sulfate,1295710606,TN,Infectious Disease
+2023,18,789.46,Welchol,Colesevelam Hcl,1295710606,TN,Infectious Disease
+2023,343,54722.87,Xarelto,Rivaroxaban,1295710606,TN,Infectious Disease
+2023,39,16387.34,Xcopri,Cenobamate,1295710606,TN,Infectious Disease
+2023,14,305.81,Albuterol Sulfate Hfa,Albuterol Sulfate,1295710648,NC,Emergency Medicine
+2023,18,337.41,Amlodipine Besylate,Amlodipine Besylate,1295710648,NC,Emergency Medicine
+2023,38,276.47,Cephalexin,Cephalexin,1295710648,NC,Emergency Medicine
+2023,17,47.77,Cyclobenzaprine Hcl,Cyclobenzaprine Hcl,1295710648,NC,Emergency Medicine
+2023,18,411.74,Doxycycline Hyclate,Doxycycline Hyclate,1295710648,NC,Emergency Medicine
+2023,42,151.5,Hydrocodone-Acetaminophen,Hydrocodone/Acetaminophen,1295710648,NC,Emergency Medicine
+2023,16,31.26,Ibuprofen,Ibuprofen,1295710648,NC,Emergency Medicine
+2023,14,98.77,Ondansetron Odt,Ondansetron,1295710648,NC,Emergency Medicine
+2023,26,103.21,Prednisone,Prednisone,1295710648,NC,Emergency Medicine
+2023,59,450.87,Amoxicillin,Amoxicillin,1295710747,CA,Gastroenterology
+2023,12,306.11,Clarithromycin,Clarithromycin,1295710747,CA,Gastroenterology
+2023,168,29846.78,Clenpiq,Sod Picosulf/Mag Ox/Citric Ac,1295710747,CA,Gastroenterology
+2023,35,214.34,Famotidine,Famotidine,1295710747,CA,Gastroenterology
+2023,494,8983.76,Gavilyte-C,"Peg3350/Sod Sulf,bicarb,cl/Kcl",1295710747,CA,Gastroenterology
+2023,16,280.33,Gavilyte-G,"Peg3350/Sod Sulf,bicarb,cl/Kcl",1295710747,CA,Gastroenterology
+2023,91,768.13,Omeprazole,Omeprazole,1295710747,CA,Gastroenterology
+2023,41,11008.2,Rifabutin,Rifabutin,1295710747,CA,Gastroenterology
+2023,18,1517.28,Sod Sulf-Potass Sulf-Mag Sulf,"Sodium, Potassium,mag Sulfates",1295710747,CA,Gastroenterology
+2023,94,2437.74,Sucralfate,Sucralfate,1295710747,CA,Gastroenterology
+2023,12,249.84,Acyclovir,Acyclovir,1295710853,MN,Family Practice
+2023,45,1776.47,Albuterol Sulfate Hfa,Albuterol Sulfate,1295710853,MN,Family Practice
+2023,28,430.77,Alendronate Sodium,Alendronate Sodium,1295710853,MN,Family Practice
+2023,139,3355.57,Allopurinol,Allopurinol,1295710853,MN,Family Practice
+2023,15,63.65,Alprazolam,Alprazolam,1295710853,MN,Family Practice
+2023,49,1011.6,Amitriptyline Hcl,Amitriptyline Hcl,1295710853,MN,Family Practice
+2023,313,3776.28,Amlodipine Besylate,Amlodipine Besylate,1295710853,MN,Family Practice
+2023,23,66.58,Amoxicillin,Amoxicillin,1295710853,MN,Family Practice
+2023,14,189.52,Amoxicillin-Clavulanate Potass,Amoxicillin/Potassium Clav,1295710853,MN,Family Practice
+2023,101,1463.76,Atenolol,Atenolol,1295710853,MN,Family Practice
+2023,772,17025.43,Atorvastatin Calcium,Atorvastatin Calcium,1295710853,MN,Family Practice
+2023,11,67.14,Azithromycin,Azithromycin,1295710853,MN,Family Practice
+2023,24,624.98,Baclofen,Baclofen,1295710853,MN,Family Practice
+2023,14,819.58,Bisoprolol Fumarate,Bisoprolol Fumarate,1295710853,MN,Family Practice
+2023,24,15494.6,Breo Ellipta,Fluticasone/Vilanterol,1295710853,MN,Family Practice
+2023,18,633.87,Bupropion Hcl Sr,Bupropion Hcl,1295710853,MN,Family Practice
+2023,59,3275.7,Bupropion Xl,Bupropion Hcl,1295710853,MN,Family Practice
+2023,30,622.13,Carvedilol,Carvedilol,1295710853,MN,Family Practice
+2023,24,536.18,Chlorthalidone,Chlorthalidone,1295710853,MN,Family Practice
+2023,32,251.12,Citalopram Hbr,Citalopram Hydrobromide,1295710853,MN,Family Practice
+2023,68,266.53,Clonazepam,Clonazepam,1295710853,MN,Family Practice
+2023,11,68.48,Clonidine Hcl,Clonidine Hcl,1295710853,MN,Family Practice
+2023,33,780.24,Clopidogrel,Clopidogrel Bisulfate,1295710853,MN,Family Practice
+2023,60,307.32,Cyclobenzaprine Hcl,Cyclobenzaprine Hcl,1295710853,MN,Family Practice
+2023,13,131.06,Diazepam,Diazepam,1295710853,MN,Family Practice
+2023,13,513.56,Diltiazem 24hr Er,Diltiazem Hcl,1295710853,MN,Family Practice
+2023,40,2413.86,Diltiazem 24hr Er (Cd),Diltiazem Hcl,1295710853,MN,Family Practice
+2023,11,586.56,Divalproex Sodium,Divalproex Sodium,1295710853,MN,Family Practice
+2023,27,571.21,Donepezil Hcl,Donepezil Hcl,1295710853,MN,Family Practice
+2023,11,347.04,Doxazosin Mesylate,Doxazosin Mesylate,1295710853,MN,Family Practice
+2023,38,569.79,Doxycycline Hyclate,Doxycycline Hyclate,1295710853,MN,Family Practice
+2023,169,7253.84,Duloxetine Hcl,Duloxetine Hcl,1295710853,MN,Family Practice
+2023,111,137873.31,Eliquis,Apixaban,1295710853,MN,Family Practice
+2023,13,176752.09,Enbrel,Etanercept,1295710853,MN,Family Practice
+2023,15,7770.91,Enoxaparin Sodium,Enoxaparin Sodium,1295710853,MN,Family Practice
+2023,84,1369.9,Escitalopram Oxalate,Escitalopram Oxalate,1295710853,MN,Family Practice
+2023,23,2442.65,Esomeprazole Magnesium,Esomeprazole Magnesium,1295710853,MN,Family Practice
+2023,17,1048.46,Estradiol,Estradiol,1295710853,MN,Family Practice
+2023,55,1803.26,Ezetimibe,Ezetimibe,1295710853,MN,Family Practice
+2023,62,1120.96,Famotidine,Famotidine,1295710853,MN,Family Practice
+2023,60,3543.46,Fenofibrate,Fenofibrate,1295710853,MN,Family Practice
+2023,101,2584.99,Finasteride,Finasteride,1295710853,MN,Family Practice
+2023,25,12961.28,Flovent Hfa,Fluticasone Propionate,1295710853,MN,Family Practice
+2023,11,95.32,Fluconazole,Fluconazole,1295710853,MN,Family Practice
+2023,41,595.96,Fluoxetine Hcl,Fluoxetine Hcl,1295710853,MN,Family Practice
+2023,96,2010.54,Fluticasone Propionate,Fluticasone Propionate,1295710853,MN,Family Practice
+2023,24,6233.01,Fluticasone-Salmeterol,Fluticasone Propion/Salmeterol,1295710853,MN,Family Practice
+2023,137,1210.23,Furosemide,Furosemide,1295710853,MN,Family Practice
+2023,269,7946.39,Gabapentin,Gabapentin,1295710853,MN,Family Practice
+2023,31,559.9,Gavilyte-G,"Peg3350/Sod Sulf,bicarb,cl/Kcl",1295710853,MN,Family Practice
+2023,11,415.09,Gemfibrozil,Gemfibrozil,1295710853,MN,Family Practice
+2023,52,1018.43,Glimepiride,Glimepiride,1295710853,MN,Family Practice
+2023,39,717.56,Glipizide,Glipizide,1295710853,MN,Family Practice
+2023,54,1149.95,Glipizide Er,Glipizide,1295710853,MN,Family Practice
+2023,14,406.8,Hydralazine Hcl,Hydralazine Hcl,1295710853,MN,Family Practice
+2023,176,926.5,Hydrochlorothiazide,Hydrochlorothiazide,1295710853,MN,Family Practice
+2023,67,1807.35,Hydrocodone-Acetaminophen,Hydrocodone/Acetaminophen,1295710853,MN,Family Practice
+2023,12,4562.67,Incruse Ellipta,Umeclidinium Bromide,1295710853,MN,Family Practice
+2023,26,1860.85,Ipratropium Bromide,Ipratropium Bromide,1295710853,MN,Family Practice
+2023,25,1086.92,Isosorbide Mononitrate Er,Isosorbide Mononitrate,1295710853,MN,Family Practice
+2023,31,181.82,Jantoven,Warfarin Sodium,1295710853,MN,Family Practice
+2023,21,23262.48,Januvia,Sitagliptin Phosphate,1295710853,MN,Family Practice
+2023,11,15172.29,Jardiance,Empagliflozin,1295710853,MN,Family Practice
+2023,18,564.51,Ketoconazole,Ketoconazole,1295710853,MN,Family Practice
+2023,11,336.04,Lamotrigine,Lamotrigine,1295710853,MN,Family Practice
+2023,12,7836.44,Lantus,"Insulin Glargine,hum.Rec.Anlog",1295710853,MN,Family Practice
+2023,28,18146.48,Lantus Solostar,"Insulin Glargine,hum.Rec.Anlog",1295710853,MN,Family Practice
+2023,324,6442.26,Levothyroxine Sodium,Levothyroxine Sodium,1295710853,MN,Family Practice
+2023,14,658.13,Lidocaine,Lidocaine,1295710853,MN,Family Practice
+2023,411,5352.43,Lisinopril,Lisinopril,1295710853,MN,Family Practice
+2023,36,593.16,Lisinopril-Hydrochlorothiazide,Lisinopril/Hydrochlorothiazide,1295710853,MN,Family Practice
+2023,32,131.51,Lorazepam,Lorazepam,1295710853,MN,Family Practice
+2023,349,6695.55,Losartan Potassium,Losartan Potassium,1295710853,MN,Family Practice
+2023,17,435.64,Losartan-Hydrochlorothiazide,Losartan/Hydrochlorothiazide,1295710853,MN,Family Practice
+2023,17,217.06,Lovastatin,Lovastatin,1295710853,MN,Family Practice
+2023,41,347.77,Meloxicam,Meloxicam,1295710853,MN,Family Practice
+2023,25,1406.66,Memantine Hcl,Memantine Hcl,1295710853,MN,Family Practice
+2023,147,2234.91,Metformin Hcl,Metformin Hcl,1295710853,MN,Family Practice
+2023,220,4629.03,Metformin Hcl Er,Metformin Hcl,1295710853,MN,Family Practice
+2023,12,115.21,Rosuvastatin Calcium,Rosuvastatin Calcium,1316578826,WY,Nurse Practitioner
+2023,83,477.4,Sertraline Hcl,Sertraline Hcl,1316578826,WY,Nurse Practitioner
+2023,11,184.42,Simvastatin,Simvastatin,1316578826,WY,Nurse Practitioner
+2023,37,303.66,Spironolactone,Spironolactone,1316578826,WY,Nurse Practitioner
+2023,13,114.69,Sulfamethoxazole-Trimethoprim,Sulfamethoxazole/Trimethoprim,1316578826,WY,Nurse Practitioner
+2023,14,269.38,Sumatriptan Succinate,Sumatriptan Succinate,1316578826,WY,Nurse Practitioner
+2023,13,5344.94,Symbicort,Budesonide/Formoterol Fumarate,1316578826,WY,Nurse Practitioner
+2023,35,845.03,Synthroid,Levothyroxine Sodium,1316578826,WY,Nurse Practitioner
+2023,52,979.54,Tamsulosin Hcl,Tamsulosin Hcl,1316578826,WY,Nurse Practitioner
+2023,26,106.08,Terazosin Hcl,Terazosin Hcl,1316578826,WY,Nurse Practitioner
+2023,18,265.38,Tizanidine Hcl,Tizanidine Hcl,1316578826,WY,Nurse Practitioner
+2023,43,209.29,Tramadol Hcl,Tramadol Hcl,1316578826,WY,Nurse Practitioner
+2023,12,159.04,Triamcinolone Acetonide,Triamcinolone Acetonide,1316578826,WY,Nurse Practitioner
+2023,14,271.93,Warfarin Sodium,Warfarin Sodium,1316578826,WY,Nurse Practitioner
+2023,23,190.27,Zolpidem Tartrate,Zolpidem Tartrate,1316578826,WY,Nurse Practitioner
+2023,21,712.64,Albuterol Sulfate Hfa,Albuterol Sulfate,1316579352,NM,Hospitalist
+2023,11,170.36,Amlodipine Besylate,Amlodipine Besylate,1316579352,NM,Hospitalist
+2023,27,482.18,Atorvastatin Calcium,Atorvastatin Calcium,1316579352,NM,Hospitalist
+2023,13,63.0,Gabapentin,Gabapentin,1316579352,NM,Hospitalist
+2023,11,35.96,Hydrochlorothiazide,Hydrochlorothiazide,1316579352,NM,Hospitalist
+2023,17,104.23,Lisinopril,Lisinopril,1316579352,NM,Hospitalist
+2023,14,57.76,Losartan Potassium,Losartan Potassium,1316579352,NM,Hospitalist
+2023,16,78.76,Ibuprofen,Ibuprofen,1316580483,PA,Physician Assistant
+2023,11,16.37,Tramadol Hcl,Tramadol Hcl,1316580483,PA,Physician Assistant
+2023,28,627.85,Albuterol Sulfate Hfa,Albuterol Sulfate,1316581416,CA,Physician Assistant
+2023,13,284.25,Alendronate Sodium,Alendronate Sodium,1316581416,CA,Physician Assistant
+2023,17,95.21,Alprazolam,Alprazolam,1316581416,CA,Physician Assistant
+2023,54,378.36,Amlodipine Besylate,Amlodipine Besylate,1316581416,CA,Physician Assistant
+2023,12,351.94,Aripiprazole,Aripiprazole,1316581416,CA,Physician Assistant
+2023,15,145.02,Atenolol,Atenolol,1316581416,CA,Physician Assistant
+2023,98,1234.5,Atorvastatin Calcium,Atorvastatin Calcium,1316581416,CA,Physician Assistant
+2023,12,413.76,Azelastine Hcl,Azelastine Hcl,1316581416,CA,Physician Assistant
+2023,22,95.13,Azithromycin,Azithromycin,1316581416,CA,Physician Assistant
+2023,15,145.93,Carvedilol,Carvedilol,1316581416,CA,Physician Assistant
+2023,26,162.96,Cephalexin,Cephalexin,1316581416,CA,Physician Assistant
+2023,19,798.69,Diclofenac Sodium,Diclofenac Sodium,1316581416,CA,Physician Assistant
+2023,52,311.9,Escitalopram Oxalate,Escitalopram Oxalate,1316581416,CA,Physician Assistant
+2023,22,287.26,Famotidine,Famotidine,1316581416,CA,Physician Assistant
+2023,28,287.09,Fluoxetine Hcl,Fluoxetine Hcl,1316581416,CA,Physician Assistant
+2023,29,275.29,Fluticasone Propionate,Fluticasone Propionate,1316581416,CA,Physician Assistant
+2023,27,311.45,Gabapentin,Gabapentin,1316581416,CA,Physician Assistant
+2023,18,217.85,Glipizide,Glipizide,1316581416,CA,Physician Assistant
+2023,48,204.04,Hydrochlorothiazide,Hydrochlorothiazide,1316581416,CA,Physician Assistant
+2023,59,1460.95,Hydrocodone-Acetaminophen,Hydrocodone/Acetaminophen,1316581416,CA,Physician Assistant
+2023,11,40.86,Ibuprofen,Ibuprofen,1316581416,CA,Physician Assistant
+2023,14,10492.08,Jardiance,Empagliflozin,1316581416,CA,Physician Assistant
+2023,70,1114.42,Levothyroxine Sodium,Levothyroxine Sodium,1316581416,CA,Physician Assistant
+2023,68,575.16,Lisinopril,Lisinopril,1316581416,CA,Physician Assistant
+2023,17,174.81,Lisinopril-Hydrochlorothiazide,Lisinopril/Hydrochlorothiazide,1316581416,CA,Physician Assistant
+2023,36,271.36,Lorazepam,Lorazepam,1316581416,CA,Physician Assistant
+2023,56,1074.01,Losartan Potassium,Losartan Potassium,1316581416,CA,Physician Assistant
+2023,12,241.88,Lovastatin,Lovastatin,1316581416,CA,Physician Assistant
+2023,24,91.73,Meloxicam,Meloxicam,1316581416,CA,Physician Assistant
+2023,47,503.33,Metformin Hcl,Metformin Hcl,1316581416,CA,Physician Assistant
+2023,12,43.22,Metformin Hcl Er,Metformin Hcl,1316581416,CA,Physician Assistant
+2023,27,425.34,Metoprolol Succinate,Metoprolol Succinate,1316581416,CA,Physician Assistant
+2023,26,214.94,Naproxen,Naproxen,1316581416,CA,Physician Assistant
+2023,41,643.66,Omeprazole,Omeprazole,1316581416,CA,Physician Assistant
+2023,16,399.6,Oxycodone-Acetaminophen,Oxycodone Hcl/Acetaminophen,1316581416,CA,Physician Assistant
+2023,28,383.09,Pantoprazole Sodium,Pantoprazole Sodium,1316581416,CA,Physician Assistant
+2023,14,191.25,Paxlovid (Eua),Nirmatrelvir/Ritonavir,1316581416,CA,Physician Assistant
+2023,11,142.8,Pioglitazone Hcl,Pioglitazone Hcl,1316581416,CA,Physician Assistant
+2023,11,117.17,Quetiapine Fumarate,Quetiapine Fumarate,1316581416,CA,Physician Assistant
+2023,44,429.03,Sertraline Hcl,Sertraline Hcl,1316581416,CA,Physician Assistant
+2023,14,224.03,Simvastatin,Simvastatin,1316581416,CA,Physician Assistant
+2023,17,116.57,Temazepam,Temazepam,1316581416,CA,Physician Assistant
+2023,20,171.07,Tramadol Hcl,Tramadol Hcl,1316581416,CA,Physician Assistant
+2023,26,182.68,Trazodone Hcl,Trazodone Hcl,1316581416,CA,Physician Assistant
+2023,17,149.58,Triamcinolone Acetonide,Triamcinolone Acetonide,1316581416,CA,Physician Assistant
+2023,12,78.88,Zolpidem Tartrate,Zolpidem Tartrate,1316581416,CA,Physician Assistant
+2023,16,110.89,Allopurinol,Allopurinol,1316581879,FL,Nurse Practitioner
+2023,25,121.02,Amlodipine Besylate,Amlodipine Besylate,1316581879,FL,Nurse Practitioner
+2023,14,25.76,Anastrozole,Anastrozole,1316581879,FL,Nurse Practitioner
+2023,17,107.45,Atorvastatin Calcium,Atorvastatin Calcium,1316581879,FL,Nurse Practitioner
+2023,20,147.62,Clonazepam,Clonazepam,1316581879,FL,Nurse Practitioner
+2023,13,169.82,Colchicine,Colchicine,1316581879,FL,Nurse Practitioner
+2023,20,220.48,Fluoxetine Hcl,Fluoxetine Hcl,1316581879,FL,Nurse Practitioner
+2023,13,92.68,Hydrochlorothiazide,Hydrochlorothiazide,1316581879,FL,Nurse Practitioner
+2023,15,251.09,Levetiracetam,Levetiracetam,1316581879,FL,Nurse Practitioner
+2023,20,312.73,Levothyroxine Sodium,Levothyroxine Sodium,1316581879,FL,Nurse Practitioner
+2023,12,102.88,Lisinopril-Hydrochlorothiazide,Lisinopril/Hydrochlorothiazide,1316581879,FL,Nurse Practitioner
+2023,14,42.96,Lorazepam,Lorazepam,1316581879,FL,Nurse Practitioner
+2023,18,312.36,Losartan Potassium,Losartan Potassium,1316581879,FL,Nurse Practitioner
+2023,14,145.48,Losartan-Hydrochlorothiazide,Losartan/Hydrochlorothiazide,1316581879,FL,Nurse Practitioner
+2023,15,253.64,Metoprolol Succinate,Metoprolol Succinate,1316581879,FL,Nurse Practitioner
+2023,21,199.58,Montelukast Sodium,Montelukast Sodium,1316581879,FL,Nurse Practitioner
+2023,13,15156.51,Ozempic,Semaglutide,1316581879,FL,Nurse Practitioner
+2023,23,27.97,Prednisone,Prednisone,1316581879,FL,Nurse Practitioner
+2023,11,183.65,Rosuvastatin Calcium,Rosuvastatin Calcium,1316581879,FL,Nurse Practitioner
+2023,12,172.55,Valproic Acid,Valproic Acid,1316581879,FL,Nurse Practitioner
+2023,16,9844.82,Xarelto,Rivaroxaban,1316581879,FL,Nurse Practitioner
+2023,47,1299.62,Albuterol Sulfate Hfa,Albuterol Sulfate,1316584253,OK,Nurse Practitioner
+2023,11,139.01,Allopurinol,Allopurinol,1316584253,OK,Nurse Practitioner
+2023,11,144.63,Alprazolam,Alprazolam,1316584253,OK,Nurse Practitioner
+2023,27,386.73,Amlodipine Besylate,Amlodipine Besylate,1316584253,OK,Nurse Practitioner
+2023,12,250.33,Amoxicillin-Clavulanate Potass,Amoxicillin/Potassium Clav,1316584253,OK,Nurse Practitioner
+2023,39,588.39,Atorvastatin Calcium,Atorvastatin Calcium,1316584253,OK,Nurse Practitioner
+2023,17,87.0,Azithromycin,Azithromycin,1316584253,OK,Nurse Practitioner
+2023,11,138.76,Carvedilol,Carvedilol,1316584253,OK,Nurse Practitioner
+2023,11,193.58,Clindamycin Hcl,Clindamycin Hcl,1316584253,OK,Nurse Practitioner
+2023,17,173.14,Clonazepam,Clonazepam,1316584253,OK,Nurse Practitioner
+2023,32,407.9,Doxycycline Hyclate,Doxycycline Hyclate,1316584253,OK,Nurse Practitioner
+2023,14,651.42,Duloxetine Hcl,Duloxetine Hcl,1316584253,OK,Nurse Practitioner
+2023,27,27238.93,Eliquis,Apixaban,1316584253,OK,Nurse Practitioner
+2023,21,152.67,Escitalopram Oxalate,Escitalopram Oxalate,1316584253,OK,Nurse Practitioner
+2023,14,79.32,Famotidine,Famotidine,1316584253,OK,Nurse Practitioner
+2023,15,13976.52,Farxiga,Dapagliflozin Propanediol,1316584253,OK,Nurse Practitioner
+2023,14,64.29,Furosemide,Furosemide,1316584253,OK,Nurse Practitioner
+2023,33,2244.14,Gabapentin,Gabapentin,1316584253,OK,Nurse Practitioner
+2023,12,341.65,Glipizide Er,Glipizide,1316584253,OK,Nurse Practitioner
+2023,11,47.5,Hydrochlorothiazide,Hydrochlorothiazide,1316584253,OK,Nurse Practitioner
+2023,11,266.92,Hydroxyzine Hcl,Hydroxyzine Hcl,1316584253,OK,Nurse Practitioner
+2023,12,250992.47,Keveyis,Dichlorphenamide,1316584253,OK,Nurse Practitioner
+2023,12,6627.04,Lantus Solostar,"Insulin Glargine,hum.Rec.Anlog",1316584253,OK,Nurse Practitioner
+2023,40,791.21,Levothyroxine Sodium,Levothyroxine Sodium,1316584253,OK,Nurse Practitioner
+2023,35,190.2,Lisinopril,Lisinopril,1316584253,OK,Nurse Practitioner
+2023,11,106.55,Lorazepam,Lorazepam,1316584253,OK,Nurse Practitioner
+2023,38,1284.1,Losartan Potassium,Losartan Potassium,1316584253,OK,Nurse Practitioner
+2023,11,115.09,Meloxicam,Meloxicam,1316584253,OK,Nurse Practitioner
+2023,25,362.74,Metformin Hcl,Metformin Hcl,1316584253,OK,Nurse Practitioner
+2023,28,254.9,Methylprednisolone,Methylprednisolone,1316584253,OK,Nurse Practitioner
+2023,30,956.67,Metoprolol Succinate,Metoprolol Succinate,1316584253,OK,Nurse Practitioner
+2023,22,209.19,Metoprolol Tartrate,Metoprolol Tartrate,1316584253,OK,Nurse Practitioner
+2023,13,59.82,Naproxen,Naproxen,1316584253,OK,Nurse Practitioner
+2023,26,565.13,Nitrofurantoin Mono-Macro,Nitrofurantoin Monohyd/M-Cryst,1316584253,OK,Nurse Practitioner
+2023,17,165.94,Omeprazole,Omeprazole,1316584253,OK,Nurse Practitioner
+2023,27,491.17,Pantoprazole Sodium,Pantoprazole Sodium,1316584253,OK,Nurse Practitioner
+2023,39,1709.44,Potassium Chloride,Potassium Chloride,1316584253,OK,Nurse Practitioner
+2023,53,165.14,Prednisone,Prednisone,1316584253,OK,Nurse Practitioner
+2023,21,460.5,Rosuvastatin Calcium,Rosuvastatin Calcium,1316584253,OK,Nurse Practitioner
+2023,13,88.73,Sulfamethoxazole-Trimethoprim,Sulfamethoxazole/Trimethoprim,1316584253,OK,Nurse Practitioner
+2023,12,4662.15,Symbicort,Budesonide/Formoterol Fumarate,1316584253,OK,Nurse Practitioner
+2023,27,163.66,Tramadol Hcl,Tramadol Hcl,1316584253,OK,Nurse Practitioner
+2023,18,33155.4,Trulicity,Dulaglutide,1316584253,OK,Nurse Practitioner
+2023,11,894.36,Venlafaxine Hcl Er,Venlafaxine Hcl,1316584253,OK,Nurse Practitioner
+2023,14,1344.58,Acarbose,Acarbose,1316585458,NJ,Physician Assistant
+2023,13,246.82,Azithromycin,Azithromycin,1366471856,IL,Internal Medicine
+2023,43,633.19,Benazepril Hcl,Benazepril Hcl,1366471856,IL,Internal Medicine
+2023,33,18166.22,Breo Ellipta,Fluticasone/Vilanterol,1366471856,IL,Internal Medicine
+2023,69,3937.86,Bumetanide,Bumetanide,1366471856,IL,Internal Medicine
+2023,21,281.77,Buspirone Hcl,Buspirone Hcl,1366471856,IL,Internal Medicine
+2023,95,1358.64,Carvedilol,Carvedilol,1366471856,IL,Internal Medicine
+2023,35,409.12,Citalopram Hbr,Citalopram Hydrobromide,1366471856,IL,Internal Medicine
+2023,13,81.84,Clonidine Hcl,Clonidine Hcl,1366471856,IL,Internal Medicine
+2023,54,923.46,Clopidogrel,Clopidogrel Bisulfate,1366471856,IL,Internal Medicine
+2023,22,319.54,Donepezil Hcl,Donepezil Hcl,1366471856,IL,Internal Medicine
+2023,16,544.35,Doxazosin Mesylate,Doxazosin Mesylate,1366471856,IL,Internal Medicine
+2023,41,1056.79,Duloxetine Hcl,Duloxetine Hcl,1366471856,IL,Internal Medicine
+2023,130,126237.45,Eliquis,Apixaban,1366471856,IL,Internal Medicine
+2023,18,509.44,Enalapril Maleate,Enalapril Maleate,1366471856,IL,Internal Medicine
+2023,103,2143.16,Escitalopram Oxalate,Escitalopram Oxalate,1366471856,IL,Internal Medicine
+2023,19,314.09,Ezetimibe,Ezetimibe,1366471856,IL,Internal Medicine
+2023,12,80.36,Famotidine,Famotidine,1366471856,IL,Internal Medicine
+2023,12,311.93,Felodipine Er,Felodipine,1366471856,IL,Internal Medicine
+2023,52,905.46,Finasteride,Finasteride,1366471856,IL,Internal Medicine
+2023,24,785.51,Fluoxetine Hcl,Fluoxetine Hcl,1366471856,IL,Internal Medicine
+2023,45,1580.44,Fluticasone Propionate,Fluticasone Propionate,1366471856,IL,Internal Medicine
+2023,15,4681.26,Fluticasone-Salmeterol,Fluticasone Propion/Salmeterol,1366471856,IL,Internal Medicine
+2023,102,506.05,Furosemide,Furosemide,1366471856,IL,Internal Medicine
+2023,145,2027.63,Gabapentin,Gabapentin,1366471856,IL,Internal Medicine
+2023,21,290.74,Glimepiride,Glimepiride,1366471856,IL,Internal Medicine
+2023,12,423.75,Glipizide,Glipizide,1366471856,IL,Internal Medicine
+2023,40,485.62,Glipizide Er,Glipizide,1366471856,IL,Internal Medicine
+2023,195,1394.41,Hydrochlorothiazide,Hydrochlorothiazide,1366471856,IL,Internal Medicine
+2023,93,1230.18,Hydrocodone-Acetaminophen,Hydrocodone/Acetaminophen,1366471856,IL,Internal Medicine
+2023,15,19107.96,Januvia,Sitagliptin Phosphate,1366471856,IL,Internal Medicine
+2023,32,35686.23,Jardiance,Empagliflozin,1366471856,IL,Internal Medicine
+2023,11,227.84,Ketoconazole,Ketoconazole,1366471856,IL,Internal Medicine
+2023,11,185.68,Lansoprazole,Lansoprazole,1366471856,IL,Internal Medicine
+2023,11,3258.09,Lantus,"Insulin Glargine,hum.Rec.Anlog",1366471856,IL,Internal Medicine
+2023,33,18869.6,Lantus Solostar,"Insulin Glargine,hum.Rec.Anlog",1366471856,IL,Internal Medicine
+2023,274,5578.6,Levothyroxine Sodium,Levothyroxine Sodium,1366471856,IL,Internal Medicine
+2023,309,3313.18,Lisinopril,Lisinopril,1366471856,IL,Internal Medicine
+2023,13,147.48,Lisinopril-Hydrochlorothiazide,Lisinopril/Hydrochlorothiazide,1366471856,IL,Internal Medicine
+2023,328,5337.11,Losartan Potassium,Losartan Potassium,1366471856,IL,Internal Medicine
+2023,21,487.77,Losartan-Hydrochlorothiazide,Losartan/Hydrochlorothiazide,1366471856,IL,Internal Medicine
+2023,15,174.89,Lovastatin,Lovastatin,1366471856,IL,Internal Medicine
+2023,197,2157.11,Metformin Hcl,Metformin Hcl,1366471856,IL,Internal Medicine
+2023,30,500.97,Metformin Hcl Er,Metformin Hcl,1366471856,IL,Internal Medicine
+2023,40,432.67,Methylprednisolone,Methylprednisolone,1366471856,IL,Internal Medicine
+2023,183,4152.7,Metoprolol Succinate,Metoprolol Succinate,1366471856,IL,Internal Medicine
+2023,118,1559.09,Metoprolol Tartrate,Metoprolol Tartrate,1366471856,IL,Internal Medicine
+2023,23,704.59,Mirtazapine,Mirtazapine,1366471856,IL,Internal Medicine
+2023,59,1144.75,Montelukast Sodium,Montelukast Sodium,1366471856,IL,Internal Medicine
+2023,11,12489.43,Novolog Flexpen,Insulin Aspart,1366471856,IL,Internal Medicine
+2023,100,1757.41,Omeprazole,Omeprazole,1366471856,IL,Internal Medicine
+2023,14,4.9,Ondansetron Odt,Ondansetron,1366471856,IL,Internal Medicine
+2023,20,703.16,Oxybutynin Chloride,Oxybutynin Chloride,1366471856,IL,Internal Medicine
+2023,16,149.7,Oxycodone-Acetaminophen,Oxycodone Hcl/Acetaminophen,1366471856,IL,Internal Medicine
+2023,14,16211.28,Ozempic,Semaglutide,1366471856,IL,Internal Medicine
+2023,139,2217.96,Pantoprazole Sodium,Pantoprazole Sodium,1366471856,IL,Internal Medicine
+2023,26,408.65,Paroxetine Hcl,Paroxetine Hcl,1366471856,IL,Internal Medicine
+2023,26,276.77,Paxlovid (Eua),Nirmatrelvir/Ritonavir,1366471856,IL,Internal Medicine
+2023,27,918.05,Potassium Chloride,Potassium Chloride,1366471856,IL,Internal Medicine
+2023,110,3350.62,Pravastatin Sodium,Pravastatin Sodium,1366471856,IL,Internal Medicine
+2023,38,795.78,Prednisone,Prednisone,1366471856,IL,Internal Medicine
+2023,51,1750.72,Pregabalin,Pregabalin,1366471856,IL,Internal Medicine
+2023,19,325.26,Ramipril,Ramipril,1366471856,IL,Internal Medicine
+2023,201,3682.94,Rosuvastatin Calcium,Rosuvastatin Calcium,1366471856,IL,Internal Medicine
+2023,90,1370.32,Sertraline Hcl,Sertraline Hcl,1366471856,IL,Internal Medicine
+2023,156,1713.19,Simvastatin,Simvastatin,1366471856,IL,Internal Medicine
+2023,12,10148.78,Spiriva Respimat,Tiotropium Bromide,1366471856,IL,Internal Medicine
+2023,19,115.87,Spironolactone,Spironolactone,1366471856,IL,Internal Medicine
+2023,23,86.11,Sulfamethoxazole-Trimethoprim,Sulfamethoxazole/Trimethoprim,1366471856,IL,Internal Medicine
+2023,13,1034.0,Synthroid,Levothyroxine Sodium,1366471856,IL,Internal Medicine
+2023,83,2573.23,Tamsulosin Hcl,Tamsulosin Hcl,1366471856,IL,Internal Medicine
+2023,56,338.74,Tramadol Hcl,Tramadol Hcl,1366471856,IL,Internal Medicine
+2023,69,1053.55,Trazodone Hcl,Trazodone Hcl,1366471856,IL,Internal Medicine
+2023,17,123.18,Triamcinolone Acetonide,Triamcinolone Acetonide,1366471856,IL,Internal Medicine
+2023,13,29305.02,Trulicity,Dulaglutide,1366471856,IL,Internal Medicine
+2023,13,209.26,Valacyclovir,Valacyclovir Hcl,1366471856,IL,Internal Medicine
+2023,33,671.27,Valsartan,Valsartan,1366471856,IL,Internal Medicine
+2023,31,682.94,Venlafaxine Hcl Er,Venlafaxine Hcl,1366471856,IL,Internal Medicine
+2023,66,1125.85,Warfarin Sodium,Warfarin Sodium,1366471856,IL,Internal Medicine
+2023,36,50255.11,Xarelto,Rivaroxaban,1366471856,IL,Internal Medicine
+2023,52,363.45,Zolpidem Tartrate,Zolpidem Tartrate,1366471856,IL,Internal Medicine
+2023,16,182.92,Acetaminophen-Codeine,Acetaminophen With Codeine,1366471898,IL,Internal Medicine
+2023,18,9952.27,Advair Diskus,Fluticasone Propion/Salmeterol,1366471898,IL,Internal Medicine
+2023,37,1167.3,Albuterol Sulfate Hfa,Albuterol Sulfate,1366471898,IL,Internal Medicine
+2023,25,198.54,Alendronate Sodium,Alendronate Sodium,1366471898,IL,Internal Medicine
+2023,44,453.55,Allopurinol,Allopurinol,1366471898,IL,Internal Medicine
+2023,66,468.29,Alprazolam,Alprazolam,1366471898,IL,Internal Medicine
+2023,257,2156.01,Amlodipine Besylate,Amlodipine Besylate,1366471898,IL,Internal Medicine
+2023,13,6586.61,Anoro Ellipta,Umeclidinium Brm/Vilanterol Tr,1366471898,IL,Internal Medicine
+2023,32,868.69,Atenolol-Chlorthalidone,Atenolol/Chlorthalidone,1366471898,IL,Internal Medicine
+2023,217,1918.57,Atorvastatin Calcium,Atorvastatin Calcium,1366471898,IL,Internal Medicine
+2023,46,201.51,Azithromycin,Azithromycin,1366471898,IL,Internal Medicine
+2023,23,289.46,Benazepril Hcl,Benazepril Hcl,1366471898,IL,Internal Medicine
+2023,11,599.16,Bethanechol Chloride,Bethanechol Chloride,1366471898,IL,Internal Medicine
+2023,14,235.53,Bisoprolol Fumarate,Bisoprolol Fumarate,1366471898,IL,Internal Medicine
+2023,41,942.29,Bisoprolol-Hydrochlorothiazide,Bisoprolol/Hydrochlorothiazide,1366471898,IL,Internal Medicine
+2023,33,1373.26,Bumetanide,Bumetanide,1366471898,IL,Internal Medicine
+2023,48,599.63,Carvedilol,Carvedilol,1366471898,IL,Internal Medicine
+2023,12,371.72,Cefdinir,Cefdinir,1366471898,IL,Internal Medicine
+2023,14,173.54,Celecoxib,Celecoxib,1366471898,IL,Internal Medicine
+2023,31,195.65,Cephalexin,Cephalexin,1366471898,IL,Internal Medicine
+2023,18,407.56,Chlorthalidone,Chlorthalidone,1366471898,IL,Internal Medicine
+2023,22,94.38,Ciprofloxacin Hcl,Ciprofloxacin Hcl,1366471898,IL,Internal Medicine
+2023,55,483.09,Clonazepam,Clonazepam,1366471898,IL,Internal Medicine
+2023,17,762.07,Diclofenac Sodium,Diclofenac Sodium,1366471898,IL,Internal Medicine
+2023,13,112.08,Dicyclomine Hcl,Dicyclomine Hcl,1366471898,IL,Internal Medicine
+2023,14,312.68,Doxepin Hcl,Doxepin Hcl,1366471898,IL,Internal Medicine
+2023,48,1368.4,Duloxetine Hcl,Duloxetine Hcl,1366471898,IL,Internal Medicine
+2023,26,36508.69,Eliquis,Apixaban,1366471898,IL,Internal Medicine
+2023,33,464.72,Escitalopram Oxalate,Escitalopram Oxalate,1366471898,IL,Internal Medicine
+2023,24,494.28,Estradiol,Estradiol,1366471898,IL,Internal Medicine
+2023,16,10712.81,Farxiga,Dapagliflozin Propanediol,1366471898,IL,Internal Medicine
+2023,20,1665.49,Fenofibrate,Fenofibrate,1366471898,IL,Internal Medicine
+2023,28,331.32,Finasteride,Finasteride,1366471898,IL,Internal Medicine
+2023,11,237.32,Flecainide Acetate,Flecainide Acetate,1366471898,IL,Internal Medicine
+2023,13,65.95,Fluconazole,Fluconazole,1366471898,IL,Internal Medicine
+2023,22,460.05,Fluoxetine Hcl,Fluoxetine Hcl,1366471898,IL,Internal Medicine
+2023,15,311.92,Fluticasone Propionate,Fluticasone Propionate,1366471898,IL,Internal Medicine
+2023,26,143.65,Furosemide,Furosemide,1366471898,IL,Internal Medicine
+2023,45,1428.03,Gabapentin,Gabapentin,1366471898,IL,Internal Medicine
+2023,67,623.71,Glimepiride,Glimepiride,1366471898,IL,Internal Medicine
+2023,45,222.05,Hydrochlorothiazide,Hydrochlorothiazide,1366471898,IL,Internal Medicine
+2023,50,1017.65,Hydrocodone-Acetaminophen,Hydrocodone/Acetaminophen,1366471898,IL,Internal Medicine
+2023,16,588.93,Ibandronate Sodium,Ibandronate Sodium,1366471898,IL,Internal Medicine
+2023,19,15868.27,Janumet Xr,Sitagliptin Phos/Metformin Hcl,1366471898,IL,Internal Medicine
+2023,13,946.99,Lansoprazole,Lansoprazole,1366471898,IL,Internal Medicine
+2023,307,4513.76,Levothyroxine Sodium,Levothyroxine Sodium,1366471898,IL,Internal Medicine
+2023,17,12209.38,Linzess,Linaclotide,1366471898,IL,Internal Medicine
+2023,34,419.67,Lisinopril,Lisinopril,1366471898,IL,Internal Medicine
+2023,36,341.31,Lisinopril-Hydrochlorothiazide,Lisinopril/Hydrochlorothiazide,1366471898,IL,Internal Medicine
+2023,86,1016.34,Losartan Potassium,Losartan Potassium,1366471898,IL,Internal Medicine
+2023,110,2576.08,Losartan-Hydrochlorothiazide,Losartan/Hydrochlorothiazide,1366471898,IL,Internal Medicine
+2023,39,135.07,Meloxicam,Meloxicam,1366471898,IL,Internal Medicine
+2023,127,1163.44,Metformin Hcl,Metformin Hcl,1366471898,IL,Internal Medicine
+2023,41,619.02,Metformin Hcl Er,Metformin Hcl,1366471898,IL,Internal Medicine
+2023,12,168.51,Methylphenidate Hcl,Methylphenidate Hcl,1366471898,IL,Internal Medicine
+2023,77,1910.86,Metoprolol Succinate,Metoprolol Succinate,1366471898,IL,Internal Medicine
+2023,11,15580.17,Jublia,Efinaconazole,1487828133,PA,Podiatry
+2023,28,903.19,Ketoconazole,Ketoconazole,1487828133,PA,Podiatry
+2023,21,194.24,Methylprednisolone,Methylprednisolone,1487828133,PA,Podiatry
+2023,49,156.5,Amoxicillin,Amoxicillin,1487828299,PA,Dentist
+2023,18,113.81,Oxycodone Hcl,Oxycodone Hcl,1487828885,MD,Nurse Practitioner
+2023,29,59.17,Tramadol Hcl,Tramadol Hcl,1487828885,MD,Nurse Practitioner
+2023,23,1738.96,Acyclovir,Acyclovir,1487828943,OH,Ophthalmology
+2023,22,407.8,Azelastine Hcl,Azelastine Hcl,1487828943,OH,Ophthalmology
+2023,101,2491.14,Brimonidine Tartrate,Brimonidine Tartrate,1487828943,OH,Ophthalmology
+2023,20,4554.9,Brimonidine Tartrate-Timolol,Brimonidine Tartrate/Timolol,1487828943,OH,Ophthalmology
+2023,17,5732.8,Combigan,Brimonidine Tartrate/Timolol,1487828943,OH,Ophthalmology
+2023,12,9719.65,Cyclosporine,Cyclosporine,1487828943,OH,Ophthalmology
+2023,31,1006.91,Dorzolamide Hcl,Dorzolamide Hcl,1487828943,OH,Ophthalmology
+2023,91,2021.94,Dorzolamide-Timolol,Dorzolamide Hcl/Timolol Maleat,1487828943,OH,Ophthalmology
+2023,36,2904.25,Doxycycline Monohydrate,Doxycycline Monohydrate,1487828943,OH,Ophthalmology
+2023,66,1411.01,Erythromycin,Erythromycin Base,1487828943,OH,Ophthalmology
+2023,35,1392.34,Famciclovir,Famciclovir,1487828943,OH,Ophthalmology
+2023,47,3531.57,Fluorometholone,Fluorometholone,1487828943,OH,Ophthalmology
+2023,58,683.57,Gentamicin Sulfate,Gentamicin Sulfate,1487828943,OH,Ophthalmology
+2023,125,2822.21,Ketorolac Tromethamine,Ketorolac Tromethamine,1487828943,OH,Ophthalmology
+2023,116,2037.36,Latanoprost,Latanoprost,1487828943,OH,Ophthalmology
+2023,46,7698.37,Loteprednol Etabonate,Loteprednol Etabonate,1487828943,OH,Ophthalmology
+2023,13,7976.18,Lumigan,Bimatoprost,1487828943,OH,Ophthalmology
+2023,86,4488.65,Moxifloxacin,Moxifloxacin Hcl,1487828943,OH,Ophthalmology
+2023,81,1498.22,Neomycin-Polymyxin-Dexameth,Neomycin/Polymyxin B/Dexametha,1487828943,OH,Ophthalmology
+2023,13,380770.32,Oxervate,Cenegermin-Bkbj,1487828943,OH,Ophthalmology
+2023,499,27632.07,Prednisolone Acetate,Prednisolone Acetate,1487828943,OH,Ophthalmology
+2023,18,24084.91,Restasis,Cyclosporine,1487828943,OH,Ophthalmology
+2023,117,994.75,Timolol Maleate,Timolol Maleate,1487828943,OH,Ophthalmology
+2023,11,77.83,Tobramycin,Tobramycin,1487828943,OH,Ophthalmology
+2023,16,1627.99,Tobramycin-Dexamethasone,Tobramycin/Dexamethasone,1487828943,OH,Ophthalmology
+2023,122,9642.15,Valacyclovir,Valacyclovir Hcl,1487828943,OH,Ophthalmology
+2023,11,2370.5,Vigamox,Moxifloxacin Hcl,1487828943,OH,Ophthalmology
+2023,13,13108.75,Zirgan,Ganciclovir,1487828943,OH,Ophthalmology
+2023,20,10098.96,Advair Diskus,Fluticasone Propion/Salmeterol,1487829065,TX,Pulmonary Disease
+2023,57,1600.42,Albuterol Sulfate Hfa,Albuterol Sulfate,1487829065,TX,Pulmonary Disease
+2023,14,9014.04,Anoro Ellipta,Umeclidinium Brm/Vilanterol Tr,1487829065,TX,Pulmonary Disease
+2023,35,15498.99,Breo Ellipta,Fluticasone/Vilanterol,1487829065,TX,Pulmonary Disease
+2023,57,42405.9,Breztri Aerosphere,Budesonide/Glycopyr/Formoterol,1487829065,TX,Pulmonary Disease
+2023,12,292.99,Cefdinir,Cefdinir,1487829065,TX,Pulmonary Disease
+2023,15,52.55,Furosemide,Furosemide,1487829065,TX,Pulmonary Disease
+2023,12,562.63,Metolazone,Metolazone,1487829065,TX,Pulmonary Disease
+2023,70,1034.84,Montelukast Sodium,Montelukast Sodium,1487829065,TX,Pulmonary Disease
+2023,43,547383.05,Ofev,Nintedanib Esylate,1487829065,TX,Pulmonary Disease
+2023,24,316658.03,Opsumit,Macitentan,1487829065,TX,Pulmonary Disease
+2023,77,314.26,Prednisone,Prednisone,1487829065,TX,Pulmonary Disease
+2023,11,2337.7,Roflumilast,Roflumilast,1487829065,TX,Pulmonary Disease
+2023,20,13165.99,Spiriva Respimat,Tiotropium Bromide,1487829065,TX,Pulmonary Disease
+2023,21,9917.22,Stiolto Respimat,Tiotropium Br/Olodaterol Hcl,1487829065,TX,Pulmonary Disease
+2023,90,46707.02,Symbicort,Budesonide/Formoterol Fumarate,1487829065,TX,Pulmonary Disease
+2023,17,84.38,Trazodone Hcl,Trazodone Hcl,1487829065,TX,Pulmonary Disease
+2023,75,73346.99,Trelegy Ellipta,Fluticasone/Umeclidin/Vilanter,1487829065,TX,Pulmonary Disease
+2023,11,37021.93,Xifaxan,Rifaximin,1487829065,TX,Pulmonary Disease
+2023,17,1726.65,Bethanechol Chloride,Bethanechol Chloride,1487831145,CA,Gastroenterology
+2023,14,51065.67,Creon,Lipase/Protease/Amylase,1487831145,CA,Gastroenterology
+2023,12,272.95,Entecavir,Entecavir,1487831145,CA,Gastroenterology
+2023,29,481.48,Famotidine,Famotidine,1487831145,CA,Gastroenterology
+2023,13,1029.8,Hydrocortisone,Hydrocortisone,1487831145,CA,Gastroenterology
+2023,11,57.21,Levothyroxine Sodium,Levothyroxine Sodium,1487831145,CA,Gastroenterology
+2023,58,47639.26,Linzess,Linaclotide,1487831145,CA,Gastroenterology
+2023,31,14588.83,Lubiprostone,Lubiprostone,1487831145,CA,Gastroenterology
+2023,50,40613.59,Motegrity,Prucalopride Succinate,1487831145,CA,Gastroenterology
+2023,33,710.51,Nortriptyline Hcl,Nortriptyline Hcl,1487831145,CA,Gastroenterology
+2023,68,1359.71,Omeprazole,Omeprazole,1487831145,CA,Gastroenterology
+2023,88,1722.28,Pantoprazole Sodium,Pantoprazole Sodium,1487831145,CA,Gastroenterology
+2023,27,612.1,Peg 3350-Electrolyte,Sodium Chloride/Nahco3/Kcl/Peg,1487831145,CA,Gastroenterology
+2023,17,452.76,Promethazine Hcl,Promethazine Hcl,1487831145,CA,Gastroenterology
+2023,120,9439.94,Sod Sulf-Potass Sulf-Mag Sulf,"Sodium, Potassium,mag Sulfates",1487831145,CA,Gastroenterology
+2023,11,55.0,Alcohol Prep Pads,Alcohol Antiseptic Pads,1487831566,AL,Interventional Cardiology
+2023,27,992.09,Amiodarone Hcl,Amiodarone Hcl,1487831566,AL,Interventional Cardiology
+2023,220,1900.26,Amlodipine Besylate,Amlodipine Besylate,1487831566,AL,Interventional Cardiology
+2023,13,139.27,Atenolol,Atenolol,1487831566,AL,Interventional Cardiology
+2023,250,5067.13,Atorvastatin Calcium,Atorvastatin Calcium,1487831566,AL,Interventional Cardiology
+2023,15,143.76,Benazepril Hcl,Benazepril Hcl,1487831566,AL,Interventional Cardiology
+2023,40,22603.39,Brilinta,Ticagrelor,1487831566,AL,Interventional Cardiology
+2023,261,3152.61,Carvedilol,Carvedilol,1487831566,AL,Interventional Cardiology
+2023,123,1973.4,Clopidogrel,Clopidogrel Bisulfate,1487831566,AL,Interventional Cardiology
+2023,24,823.46,Diltiazem 24hr Er (Cd),Diltiazem Hcl,1487831566,AL,Interventional Cardiology
+2023,291,278519.91,Eliquis,Apixaban,1487831566,AL,Interventional Cardiology
+2023,69,63859.09,Entresto,Sacubitril/Valsartan,1487831566,AL,Interventional Cardiology
+2023,11,227.3,Ezetimibe,Ezetimibe,1487831566,AL,Interventional Cardiology
+2023,12,14172.02,Farxiga,Dapagliflozin Propanediol,1487831566,AL,Interventional Cardiology
+2023,11,931.28,Flecainide Acetate,Flecainide Acetate,1487831566,AL,Interventional Cardiology
+2023,115,843.6,Furosemide,Furosemide,1487831566,AL,Interventional Cardiology
+2023,46,793.61,Hydralazine Hcl,Hydralazine Hcl,1487831566,AL,Interventional Cardiology
+2023,12,50.47,Hydrochlorothiazide,Hydrochlorothiazide,1487831566,AL,Interventional Cardiology
+2023,78,2248.65,Isosorbide Mononitrate Er,Isosorbide Mononitrate,1487831566,AL,Interventional Cardiology
+2023,27,31823.42,Jardiance,Empagliflozin,1487831566,AL,Interventional Cardiology
+2023,113,1345.36,Lisinopril,Lisinopril,1487831566,AL,Interventional Cardiology
+2023,61,1097.7,Losartan Potassium,Losartan Potassium,1487831566,AL,Interventional Cardiology
+2023,292,7537.74,Metoprolol Succinate,Metoprolol Succinate,1487831566,AL,Interventional Cardiology
+2023,17,239.56,Metoprolol Tartrate,Metoprolol Tartrate,1487831566,AL,Interventional Cardiology
+2023,122,2706.31,Nitroglycerin,Nitroglycerin,1487831566,AL,Interventional Cardiology
+2023,16,865.28,Potassium Chloride,Potassium Chloride,1487831566,AL,Interventional Cardiology
+2023,27,17419.85,Praluent Pen,Alirocumab,1487831566,AL,Interventional Cardiology
+2023,113,8891.73,Prasugrel Hcl,Prasugrel Hcl,1487831566,AL,Interventional Cardiology
+2023,41,857.53,Pravastatin Sodium,Pravastatin Sodium,1487831566,AL,Interventional Cardiology
+2023,68,10076.97,Ranolazine Er,Ranolazine,1487831566,AL,Interventional Cardiology
+2023,22,20635.41,Repatha Sureclick,Evolocumab,1487831566,AL,Interventional Cardiology
+2023,51,1031.88,Rosuvastatin Calcium,Rosuvastatin Calcium,1487831566,AL,Interventional Cardiology
+2023,15,37.5,Single Use Swab,Alcohol Antiseptic Pads,1487831566,AL,Interventional Cardiology
+2023,88,1250.24,Spironolactone,Spironolactone,1487831566,AL,Interventional Cardiology
+2023,33,929.66,Torsemide,Torsemide,1487831566,AL,Interventional Cardiology
+2023,19,957.82,Valsartan,Valsartan,1487831566,AL,Interventional Cardiology
+2023,68,84215.58,Xarelto,Rivaroxaban,1487831566,AL,Interventional Cardiology
+2023,41,2766.87,Amiodarone Hcl,Amiodarone Hcl,1487832242,MA,Cardiology
+2023,48,331.16,Amlodipine Besylate,Amlodipine Besylate,1487832242,MA,Cardiology
+2023,138,3660.63,Atorvastatin Calcium,Atorvastatin Calcium,1487832242,MA,Cardiology
+2023,82,1317.52,Carvedilol,Carvedilol,1487832242,MA,Cardiology
+2023,18,84.37,Clopidogrel,Clopidogrel Bisulfate,1487832242,MA,Cardiology
+2023,12,9536.35,Corlanor,Ivabradine Hcl,1487832242,MA,Cardiology
+2023,18,847.32,Digoxin,Digoxin,1487832242,MA,Cardiology
+2023,59,84672.29,Eliquis,Apixaban,1487832242,MA,Cardiology
+2023,114,143897.19,Entresto,Sacubitril/Valsartan,1487832242,MA,Cardiology
+2023,32,1607.12,Eplerenone,Eplerenone,1487832242,MA,Cardiology
+2023,41,3446.48,Ezetimibe,Ezetimibe,1487832242,MA,Cardiology
+2023,108,122347.1,Farxiga,Dapagliflozin Propanediol,1487832242,MA,Cardiology
+2023,126,894.25,Furosemide,Furosemide,1487832242,MA,Cardiology
+2023,29,65.33,Hydrochlorothiazide,Hydrochlorothiazide,1487832242,MA,Cardiology
+2023,35,533.94,Isosorbide Mononitrate Er,Isosorbide Mononitrate,1487832242,MA,Cardiology
+2023,137,122549.05,Jardiance,Empagliflozin,1487832242,MA,Cardiology
+2023,82,797.53,Lisinopril,Lisinopril,1487832242,MA,Cardiology
+2023,127,1894.69,Losartan Potassium,Losartan Potassium,1487832242,MA,Cardiology
+2023,244,7422.19,Metoprolol Succinate,Metoprolol Succinate,1487832242,MA,Cardiology
+2023,20,137.4,Metoprolol Tartrate,Metoprolol Tartrate,1487832242,MA,Cardiology
+2023,13,249.9,Nitroglycerin,Nitroglycerin,1487832242,MA,Cardiology
+2023,14,328.04,Pravastatin Sodium,Pravastatin Sodium,1487832242,MA,Cardiology
+2023,17,10141.23,Repatha Sureclick,Evolocumab,1487832242,MA,Cardiology
+2023,91,3874.68,Rosuvastatin Calcium,Rosuvastatin Calcium,1487832242,MA,Cardiology
+2023,164,1671.3,Spironolactone,Spironolactone,1487832242,MA,Cardiology
+2023,46,1213.44,Torsemide,Torsemide,1487832242,MA,Cardiology
+2023,11,489.78,Valsartan,Valsartan,1487832242,MA,Cardiology
+2023,33,788130.27,Vyndamax,Tafamidis,1487832242,MA,Cardiology
+2023,39,453.49,Alprazolam,Alprazolam,1487832390,OH,Nurse Practitioner
+2023,44,317.61,Amlodipine Besylate,Amlodipine Besylate,1487832390,OH,Nurse Practitioner
+2023,62,920.09,Atorvastatin Calcium,Atorvastatin Calcium,1487832390,OH,Nurse Practitioner
+2023,19,1416.54,Ziprasidone Hcl,Ziprasidone Hcl,1538175088,OR,Psychiatry
+2023,77,577.13,Zolpidem Tartrate,Zolpidem Tartrate,1538175088,OR,Psychiatry
+2023,14,81.39,Alprazolam,Alprazolam,1538175211,WA,Nurse Practitioner
+2023,68,20331.4,Aripiprazole,Aripiprazole,1538175211,WA,Nurse Practitioner
+2023,29,400.54,Benztropine Mesylate,Benztropine Mesylate,1538175211,WA,Nurse Practitioner
+2023,71,1447.52,Bupropion Hcl Sr,Bupropion Hcl,1538175211,WA,Nurse Practitioner
+2023,44,1069.8,Bupropion Xl,Bupropion Hcl,1538175211,WA,Nurse Practitioner
+2023,61,1781.03,Buspirone Hcl,Buspirone Hcl,1538175211,WA,Nurse Practitioner
+2023,31,467.41,Citalopram Hbr,Citalopram Hydrobromide,1538175211,WA,Nurse Practitioner
+2023,72,819.86,Clonazepam,Clonazepam,1538175211,WA,Nurse Practitioner
+2023,74,4486.26,Clozapine,Clozapine,1538175211,WA,Nurse Practitioner
+2023,12,781.32,Desvenlafaxine Succinate Er,Desvenlafaxine Succinate,1538175211,WA,Nurse Practitioner
+2023,11,126.35,Dextroamphetamine-Amphetamine,Dextroamphetamine/Amphetamine,1538175211,WA,Nurse Practitioner
+2023,13,43.46,Diazepam,Diazepam,1538175211,WA,Nurse Practitioner
+2023,45,921.0,Divalproex Sodium,Divalproex Sodium,1538175211,WA,Nurse Practitioner
+2023,12,788.35,Divalproex Sodium Er,Divalproex Sodium,1538175211,WA,Nurse Practitioner
+2023,144,4093.76,Duloxetine Hcl,Duloxetine Hcl,1538175211,WA,Nurse Practitioner
+2023,23,400.25,Fluoxetine Hcl,Fluoxetine Hcl,1538175211,WA,Nurse Practitioner
+2023,30,630.37,Gabapentin,Gabapentin,1538175211,WA,Nurse Practitioner
+2023,19,499.73,Haloperidol,Haloperidol,1538175211,WA,Nurse Practitioner
+2023,38,1244.21,Hydroxyzine Hcl,Hydroxyzine Hcl,1538175211,WA,Nurse Practitioner
+2023,28,835.91,Hydroxyzine Pamoate,Hydroxyzine Pamoate,1538175211,WA,Nurse Practitioner
+2023,37,280941.81,Ingrezza,Valbenazine Tosylate,1538175211,WA,Nurse Practitioner
+2023,40,106747.35,Invega Sustenna,Paliperidone Palmitate,1538175211,WA,Nurse Practitioner
+2023,80,1330.66,Lamotrigine,Lamotrigine,1538175211,WA,Nurse Practitioner
+2023,14,4851.75,Lamotrigine Er,Lamotrigine,1538175211,WA,Nurse Practitioner
+2023,68,653.39,Lithium Carbonate,Lithium Carbonate,1538175211,WA,Nurse Practitioner
+2023,25,568.85,Lithium Carbonate Er,Lithium Carbonate,1538175211,WA,Nurse Practitioner
+2023,11,83.7,Lorazepam,Lorazepam,1538175211,WA,Nurse Practitioner
+2023,39,18030.65,Lurasidone Hcl,Lurasidone Hcl,1538175211,WA,Nurse Practitioner
+2023,12,17233.99,Lybalvi,Olanzapine/Samidorphan Malate,1538175211,WA,Nurse Practitioner
+2023,29,290.28,Mirtazapine,Mirtazapine,1538175211,WA,Nurse Practitioner
+2023,25,294.83,Nortriptyline Hcl,Nortriptyline Hcl,1538175211,WA,Nurse Practitioner
+2023,78,2824.67,Olanzapine,Olanzapine,1538175211,WA,Nurse Practitioner
+2023,12,222.5,Paroxetine Hcl,Paroxetine Hcl,1538175211,WA,Nurse Practitioner
+2023,23,607.87,Prazosin Hcl,Prazosin Hcl,1538175211,WA,Nurse Practitioner
+2023,27,438.32,Propranolol Hcl,Propranolol Hcl,1538175211,WA,Nurse Practitioner
+2023,53,2091.21,Quetiapine Fumarate,Quetiapine Fumarate,1538175211,WA,Nurse Practitioner
+2023,38,3084.31,Quetiapine Fumarate Er,Quetiapine Fumarate,1538175211,WA,Nurse Practitioner
+2023,11,2585.24,Ramelteon,Ramelteon,1538175211,WA,Nurse Practitioner
+2023,13,29250.17,Risperdal Consta,Risperidone Microspheres,1538175211,WA,Nurse Practitioner
+2023,63,876.15,Risperidone,Risperidone,1538175211,WA,Nurse Practitioner
+2023,39,193.32,Sertraline Hcl,Sertraline Hcl,1538175211,WA,Nurse Practitioner
+2023,37,446.45,Topiramate,Topiramate,1538175211,WA,Nurse Practitioner
+2023,50,355.93,Trazodone Hcl,Trazodone Hcl,1538175211,WA,Nurse Practitioner
+2023,32,473.95,Venlafaxine Hcl Er,Venlafaxine Hcl,1538175211,WA,Nurse Practitioner
+2023,17,22510.07,Vraylar,Cariprazine Hcl,1538175211,WA,Nurse Practitioner
+2023,18,6758.92,Vyvanse,Lisdexamfetamine Dimesylate,1538175211,WA,Nurse Practitioner
+2023,24,325.71,Allopurinol,Allopurinol,1538175872,TX,Podiatry
+2023,16,169.37,Amoxicillin-Clavulanate Potass,Amoxicillin/Potassium Clav,1538175872,TX,Podiatry
+2023,20,110.88,Cephalexin,Cephalexin,1538175872,TX,Podiatry
+2023,41,436.61,Diclofenac Sodium,Diclofenac Sodium,1538175872,TX,Podiatry
+2023,49,270.34,Gabapentin,Gabapentin,1538175872,TX,Podiatry
+2023,75,186.51,Meloxicam,Meloxicam,1538175872,TX,Podiatry
+2023,15,39.93,Oxycodone-Acetaminophen,Oxycodone Hcl/Acetaminophen,1538175872,TX,Podiatry
+2023,18,64.03,Prednisone,Prednisone,1538175872,TX,Podiatry
+2023,34,230.56,Pregabalin,Pregabalin,1538175872,TX,Podiatry
+2023,48,1045.11,Terbinafine Hcl,Terbinafine Hcl,1538175872,TX,Podiatry
+2023,182,664.08,Amoxicillin,Amoxicillin,1538176300,PA,Dentist
+2023,17,88.13,Chlorhexidine Gluconate,Chlorhexidine Gluconate,1538176300,PA,Dentist
+2023,34,225.77,Clindamycin Hcl,Clindamycin Hcl,1538176300,PA,Dentist
+2023,17,69.1,Hydrocodone-Acetaminophen,Hydrocodone/Acetaminophen,1538176300,PA,Dentist
+2023,63,189.08,Ibuprofen,Ibuprofen,1538176300,PA,Dentist
+2023,23,529.62,Sodium Fluoride,Fluoride (Sodium),1538176300,PA,Dentist
+2023,19,170.04,Methylprednisolone,Methylprednisolone,1538177514,CO,Radiation Oncology
+2023,21,498.32,Oxybutynin Chloride Er,Oxybutynin Chloride,1538177514,CO,Radiation Oncology
+2023,45,640.38,Tamsulosin Hcl,Tamsulosin Hcl,1538177514,CO,Radiation Oncology
+2023,12,27.51,Amoxicillin,Amoxicillin,1538177613,MN,Dentist
+2023,11,90.95,Sodium Fluoride 5000 Plus,Fluoride (Sodium),1538177613,MN,Dentist
+2023,15,394.81,Hydrocortisone,Hydrocortisone,1538178355,CA,Surgery
+2023,62,1144.9,Baclofen,Baclofen,1538178454,LA,Physical Medicine and Rehabilitation
+2023,17,188.34,Butalbital-Acetaminophen-Caffe,Butalb/Acetaminophen/Caffeine,1538178454,LA,Physical Medicine and Rehabilitation
+2023,27,770.59,Celecoxib,Celecoxib,1538178454,LA,Physical Medicine and Rehabilitation
+2023,22,239.08,Cyclobenzaprine Hcl,Cyclobenzaprine Hcl,1538178454,LA,Physical Medicine and Rehabilitation
+2023,93,2672.85,Diclofenac Sodium,Diclofenac Sodium,1538178454,LA,Physical Medicine and Rehabilitation
+2023,18,522.36,Duloxetine Hcl,Duloxetine Hcl,1538178454,LA,Physical Medicine and Rehabilitation
+2023,17,1214.65,Fentanyl,Fentanyl,1538178454,LA,Physical Medicine and Rehabilitation
+2023,146,3475.5,Gabapentin,Gabapentin,1538178454,LA,Physical Medicine and Rehabilitation
+2023,78,2569.86,Hydrocodone-Acetaminophen,Hydrocodone/Acetaminophen,1538178454,LA,Physical Medicine and Rehabilitation
+2023,12,143.12,Ibuprofen,Ibuprofen,1538178454,LA,Physical Medicine and Rehabilitation
+2023,60,179.89,Meloxicam,Meloxicam,1538178454,LA,Physical Medicine and Rehabilitation
+2023,61,549.5,Methocarbamol,Methocarbamol,1538178454,LA,Physical Medicine and Rehabilitation
+2023,31,193.4,Methylprednisolone,Methylprednisolone,1538178454,LA,Physical Medicine and Rehabilitation
+2023,62,1738.0,Morphine Sulfate Er,Morphine Sulfate,1538178454,LA,Physical Medicine and Rehabilitation
+2023,20,124.61,Naproxen,Naproxen,1538178454,LA,Physical Medicine and Rehabilitation
+2023,18,249.75,Oxycodone Hcl,Oxycodone Hcl,1538178454,LA,Physical Medicine and Rehabilitation
+2023,52,1369.04,Oxycodone-Acetaminophen,Oxycodone Hcl/Acetaminophen,1538178454,LA,Physical Medicine and Rehabilitation
+2023,24,695.75,Pregabalin,Pregabalin,1538178454,LA,Physical Medicine and Rehabilitation
+2023,115,1856.96,Tizanidine Hcl,Tizanidine Hcl,1538178454,LA,Physical Medicine and Rehabilitation
+2023,32,129.15,Tramadol Hcl,Tramadol Hcl,1538178454,LA,Physical Medicine and Rehabilitation
+2023,17,645.54,Albuterol Sulfate Hfa,Albuterol Sulfate,1538178777,MS,Family Practice
+2023,30,312.8,Allopurinol,Allopurinol,1538178777,MS,Family Practice
+2023,16,234.31,Amiodarone Hcl,Amiodarone Hcl,1538178777,MS,Family Practice
+2023,48,768.38,Amitriptyline Hcl,Amitriptyline Hcl,1538178777,MS,Family Practice
+2023,334,2549.64,Amlodipine Besylate,Amlodipine Besylate,1538178777,MS,Family Practice
+2023,22,541.52,Anastrozole,Anastrozole,1538178777,MS,Family Practice
+2023,20,1860.02,Aripiprazole,Aripiprazole,1538178777,MS,Family Practice
+2023,277,3304.16,Atorvastatin Calcium,Atorvastatin Calcium,1538178777,MS,Family Practice
+2023,21,763.43,Bethanechol Chloride,Bethanechol Chloride,1538178777,MS,Family Practice
+2023,11,9154.58,Bydureon Bcise,Exenatide Microspheres,1538178777,MS,Family Practice
+2023,47,1178.55,Carbidopa-Levodopa,Carbidopa/Levodopa,1538178777,MS,Family Practice
+2023,122,1418.99,Carvedilol,Carvedilol,1538178777,MS,Family Practice
+2023,28,299.4,Chlorthalidone,Chlorthalidone,1538178777,MS,Family Practice
+2023,19,102.81,Citalopram Hbr,Citalopram Hydrobromide,1538178777,MS,Family Practice
+2023,17,358.19,Clonazepam,Clonazepam,1538178777,MS,Family Practice
+2023,94,891.16,Clopidogrel,Clopidogrel Bisulfate,1538178777,MS,Family Practice
+2023,15,803.4,Colchicine,Colchicine,1538178777,MS,Family Practice
+2023,35,180.03,Dexamethasone,Dexamethasone,1538178777,MS,Family Practice
+2023,16,415.08,Digoxin,Digoxin,1538178777,MS,Family Practice
+2023,24,2195.79,Divalproex Sodium,Divalproex Sodium,1538178777,MS,Family Practice
+2023,26,423.0,Donepezil Hcl,Donepezil Hcl,1538178777,MS,Family Practice
+2023,22,483.49,Duloxetine Hcl,Duloxetine Hcl,1538178777,MS,Family Practice
+2023,56,35281.54,Eliquis,Apixaban,1538178777,MS,Family Practice
+2023,34,15652.96,Entresto,Sacubitril/Valsartan,1538178777,MS,Family Practice
+2023,15,1766.99,Esomeprazole Magnesium,Esomeprazole Magnesium,1538178777,MS,Family Practice
+2023,117,1385.72,Famotidine,Famotidine,1538178777,MS,Family Practice
+2023,15,13648.33,Farxiga,Dapagliflozin Propanediol,1538178777,MS,Family Practice
+2023,39,650.62,Fluticasone Propionate,Fluticasone Propionate,1538178777,MS,Family Practice
+2023,133,860.22,Furosemide,Furosemide,1538178777,MS,Family Practice
+2023,157,1580.56,Gabapentin,Gabapentin,1538178777,MS,Family Practice
+2023,20,434.75,Hydralazine Hcl,Hydralazine Hcl,1538178777,MS,Family Practice
+2023,74,513.82,Hydrochlorothiazide,Hydrochlorothiazide,1538178777,MS,Family Practice
+2023,23,212.33,Hydrocodone-Acetaminophen,Hydrocodone/Acetaminophen,1538178777,MS,Family Practice
+2023,12,4651.2,Incruse Ellipta,Umeclidinium Bromide,1538178777,MS,Family Practice
+2023,22,7272.78,Invokana,Canagliflozin,1538178777,MS,Family Practice
+2023,22,12980.39,Januvia,Sitagliptin Phosphate,1538178777,MS,Family Practice
+2023,13,9004.19,Jardiance,Empagliflozin,1538178777,MS,Family Practice
+2023,12,574.48,Lacosamide,Lacosamide,1538178777,MS,Family Practice
+2023,12,226.44,Lactulose,Lactulose,1538178777,MS,Family Practice
+2023,28,20506.76,Levemir Flexpen,Insulin Detemir,1538178777,MS,Family Practice
+2023,44,1211.83,Levetiracetam,Levetiracetam,1538178777,MS,Family Practice
+2023,99,1236.27,Levothyroxine Sodium,Levothyroxine Sodium,1538178777,MS,Family Practice
+2023,88,768.36,Lisinopril,Lisinopril,1538178777,MS,Family Practice
+2023,33,409.0,Lisinopril-Hydrochlorothiazide,Lisinopril/Hydrochlorothiazide,1538178777,MS,Family Practice
+2023,146,1896.48,Losartan Potassium,Losartan Potassium,1538178777,MS,Family Practice
+2023,21,1110.75,Megestrol Acetate,Megestrol Acetate,1538178777,MS,Family Practice
+2023,13,51.76,Ibuprofen,Ibuprofen,1538747662,OH,Student in an Organized Health Care Education/Training Program
+2023,23,107.37,Oxycodone Hcl,Oxycodone Hcl,1538747662,OH,Student in an Organized Health Care Education/Training Program
+2023,14,5215.66,Eliquis,Apixaban,1538748124,WI,Hospitalist
+2023,12,141.31,Atorvastatin Calcium,Atorvastatin Calcium,1538748181,WI,Internal Medicine
