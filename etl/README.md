@@ -17,17 +17,18 @@ This project uses publicly available CMS data for educational and portfolio purp
 - **Year**: 2023
 - **Source**: Centers for Medicare & Medicaid Services (CMS)
 - **Link**: [Link to the Data Source] (https://data.cms.gov/provider-summary-by-type-of-service/medicare-part-d-prescribers/medicare-part-d-prescribers-by-provider-and-drug)
-  The dataset contains prescription drug utilization and cost information at the prescriber (NPI) and drug level
+
+The dataset contains prescription drug utilization and cost information at the prescriber (NPI) and drug level
 
 ## Architecture
 
-Raw CMS CSV (3.6 GB)
-↓
-Chunked Extraction (pandas)
-↓
-Data Cleaning & Transformation
-↓
-PostgreSQL Data Warehouse
+    Raw CMS CSV (3.6 GB)
+            ↓
+    Chunked Extraction (pandas)
+            ↓
+    Data Cleaning & Transformation
+            ↓
+    PostgreSQL Data Warehouse
 
 ## Database Schema
 
