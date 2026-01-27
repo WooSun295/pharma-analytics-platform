@@ -108,8 +108,8 @@ The ETL process is modularized into 3 components:
 
 Environment-specific values are stored in a '.env' file:
 
-CSV_PATH = /path/to/cms_data.csv
-DB_URI=postgresql+psycopg2:user:password@localhost5432/pharma_dw
+- CSV_PATH = /path/to/cms_data.csv
+- DB_URI=postgresql+psycopg2:user:password@localhost5432/pharma_dw
 
 ## Data Validation
 
