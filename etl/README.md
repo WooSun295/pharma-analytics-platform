@@ -69,7 +69,8 @@ The warehouse follows a fact/dimension (star schema) design.
   | sale_year | Reporting year |
   | total_claims | Total prescription claims |
   | sales_amount | Total drug cost |
-  [!NOTE] Multiple records may exist per provider-drug-year. Aggregation is intentionally performed at query time to preserve data fidelity.
+
+[!NOTE] Multiple records may exist per provider-drug-year. Aggregation is intentionally performed at query time to preserve data fidelity.
 
 ## ETL Pipeline
 
