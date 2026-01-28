@@ -36,7 +36,7 @@ def load_data(demo_mode: bool, selected_year: int):
         return df[df["sale_year"] == selected_year]
 
     # Production mode → aggregated SQL ONLY
-    sql = load_sql_query("../sql/analytics_query.sql")
+    sql = load_sql_query("sql/analytics_query.sql")
 
     return pd.read_sql(
         sql,
