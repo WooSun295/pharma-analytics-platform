@@ -5,6 +5,7 @@ import os
 from dotenv import load_dotenv
 import plotly.express as px
 from streamlit_plotly_events import plotly_events
+from pathlib import Path
 
 # Load environment variables
 load_dotenv()
@@ -25,6 +26,9 @@ US_STATES = [
     "SD","TN","TX","UT","VT","VA","WA","WV","WI","WY","DC"
 ]
 
+def load_sql_query(path: str) -> str:
+    return Path(path).read_text()
+
 @st.cache_data(ttl=600)
 def load_data(demo_mode: bool, selected_year: int):
     if demo_mode:
@@ -32,21 +36,13 @@ def load_data(demo_mode: bool, selected_year: int):
         return df[df["sale_year"] == selected_year]
 
     # Production mode → aggregated SQL ONLY
-    query = f"""
-    SELECT
-        p.state,
-        p.provider_type,
-        d.drug_name,
-        d.generic_name,
-        SUM(f.sales_amount) AS sales_amount,
-        SUM(f.total_claims) AS total_claims
-    FROM fact_sales f
-    JOIN dim_provider p ON f.provider_id = p.provider_id
-    JOIN dim_drug d ON f.drug_id = d.drug_id
-    WHERE f.sale_year = {selected_year}
-    GROUP BY p.state, p.provider_type, d.drug_name
-    """
-    return pd.read_sql(query, engine)
+    sql = load_sql_query("sql/analytics_query.sql")
+
+    return pd.read_sql(
+        sql,
+        engine,
+        params={"sale_year": selected_year}
+    )
 
 def format_currency_abbrev(value):
     if value >= 1_000_000_000:
