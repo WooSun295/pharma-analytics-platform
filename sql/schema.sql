@@ -1,3 +1,16 @@
+-- ============================================
+-- DROP EXISTING TABLES (FULL REBUILD)
+-- ============================================
+
+DROP TABLE IF EXISTS fact_sales CASCADE;
+DROP TABLE IF EXISTS temp_fact CASCADE;
+DROP TABLE IF EXISTS dim_provider CASCADE;
+DROP TABLE IF EXISTS dim_drug CASCADE;
+
+-- ============================================
+-- CREATE DIMENSION TABLES
+-- ============================================
+
 CREATE TABLE IF NOT EXISTS dim_drug (
     drug_id SERIAL PRIMARY KEY,
     drug_name TEXT UNIQUE,
@@ -10,6 +23,10 @@ CREATE TABLE IF NOT EXISTS dim_provider (
     state TEXT,
     provider_type TEXT
 );
+
+-- ============================================
+-- CREATE FACT TABLE
+-- ============================================
 
 CREATE TABLE IF NOT EXISTS fact_sales (
     sale_id SERIAL PRIMARY KEY,
