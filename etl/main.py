@@ -10,7 +10,7 @@ load_dotenv()
 CSV_PATH = os.getenv("CSV_PATH")
 DB_URI = os.getenv("DB_URI")
 
-def run_schema(engine, schema_path="sql/schema.sql"):
+def run_schema(engine, schema_path="../sql/schema.sql"):
     with open(schema_path, "r") as f:
         ddl = f.read()
 
