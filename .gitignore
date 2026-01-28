@@ -11,3 +11,6 @@ etl\__pycache__
 
 # Data
 data/MUP_DPR_RY25_P04_V10_DY23_NPIBN.csv
+
+#AWS Deploying
+aws_private_key.pem

@@ -28,7 +28,7 @@ US_STATES = [
 @st.cache_data(ttl=600)
 def load_data(demo_mode: bool, selected_year: int):
     if demo_mode:
-        df = pd.read_csv("data\SAMPLE_ETL_CMS_1500.csv")
+        df = pd.read_csv("data/SAMPLE_ETL_CMS_1500.csv")
         return df[df["sale_year"] == selected_year]
 
     # Production mode → aggregated SQL ONLY
