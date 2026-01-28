@@ -4,15 +4,18 @@ from sqlalchemy import create_engine, text
 from extract import extract_data
 from transform import transform_chunk
 from load import load_dimensions, load_facts
+from pathlib import Path
 
 load_dotenv()
 
 CSV_PATH = os.getenv("CSV_PATH")
 DB_URI = os.getenv("DB_URI")
 
-def run_schema(engine, schema_path="sql\schema.sql"):
-    with open(schema_path, "r") as f:
-        ddl = f.read()
+def run_schema(engine, schema_path=None):
+    if schema_path is None:
+        schema_path = Path(__file__).resolve().parent.parent / "sql" / "schema.sql"
+    
+    ddl = Path(schema_path).read_text(encoding="utf-8")
 
     with engine.begin() as conn:
         conn.execute(text(ddl))
@@ -24,11 +27,15 @@ if not CSV_PATH or not DB_URI:
 
 engine = create_engine(DB_URI)
 
+print("Creating schema...", flush=True)
 run_schema(engine)
+print("Schema ready. Beginning chunk loop...", flush=True)
 
-i = 1
+i = 0
 
 for raw_chunk in extract_data(CSV_PATH):
+    i += 1
+
     transformed = transform_chunk(raw_chunk)
 
     if transformed.empty:
@@ -37,7 +44,6 @@ for raw_chunk in extract_data(CSV_PATH):
     load_dimensions(transformed, engine)
     load_facts(transformed, engine)
 
-    if i < 267:
-        print(f"Loaded {i*100_000} rows")
+    print(f"Chunk {i}: loaded ~{len(raw_chunk):,} raw rows, {len(transformed):,} transformed rows", flush=True)
 
 print("ETL pipeline completed successfully.")

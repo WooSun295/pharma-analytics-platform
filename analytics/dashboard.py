@@ -26,8 +26,10 @@ US_STATES = [
     "SD","TN","TX","UT","VT","VA","WA","WV","WI","WY","DC"
 ]
 
-def load_sql_query(path: str) -> str:
-    return Path(path).read_text()
+def load_sql_query(path:None):
+    if path is None:
+        path = Path(__file__).resolve().parent.parent / "sql" / "analytics_query.sql"
+    return Path(path).read_text(encoding="utf-8")
 
 @st.cache_data(ttl=600)
 def load_data(demo_mode: bool, selected_year: int):
@@ -36,7 +38,7 @@ def load_data(demo_mode: bool, selected_year: int):
         return df[df["sale_year"] == selected_year]
 
     # Production mode → aggregated SQL ONLY
-    sql = load_sql_query("sql/analytics_query.sql")
+    sql = load_sql_query()
 
     return pd.read_sql(
         sql,
