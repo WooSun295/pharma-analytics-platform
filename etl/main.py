@@ -26,6 +26,8 @@ engine = create_engine(DB_URI)
 
 run_schema(engine)
 
+i = 1
+
 for raw_chunk in extract_data(CSV_PATH):
     transformed = transform_chunk(raw_chunk)
 
@@ -34,5 +36,8 @@ for raw_chunk in extract_data(CSV_PATH):
 
     load_dimensions(transformed, engine)
     load_facts(transformed, engine)
+
+    if i < 267:
+        print(f"Loaded {i*100_000} rows")
 
 print("ETL pipeline completed successfully.")
