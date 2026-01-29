@@ -8,7 +8,7 @@ SELECT
 FROM fact_sales f
 JOIN dim_provider p ON f.provider_id = p.provider_id
 JOIN dim_drug d ON f.drug_id = d.drug_id
-WHERE f.sale_year = :sale_year
+WHERE f.sale_year = %(sale_year)s
 GROUP BY 
     p.state, 
     p.provider_type, 
