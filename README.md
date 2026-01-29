@@ -1,58 +1,68 @@
 # Pharma Analytics Platform
 
-An end-to-end healthcare analytics platform built using publicly available
-**CMS Medicare Part D Prescriber data**.
+An end-to-end healthcare analytics platform built using publicly available **CMS Medicare Part D Prescriber data**.
 
-This project demonstrates how large-scale healthcare data can be ingested,
-modeled, validated, and transformed into analytics-ready datasets, and
-ultimately visualized through interactive dashboards.
+This project demonstrates how large-scale healthcare data can be ingested, modeled, validated, and transformed into analytics-ready datasets, and ultimately visualized through an interactive, cloud-deployed dashboard.
+
+🔗 **Live Demo:** https://www.swlee9867.com
 
 ## Project Overview
 
-The platform is structured as a multi-layer analytics system:
+The platform ingests multi-million-row pharmaceutical claims data, loads it into a PostgreSQL data warehouse using a star schema, and exposes business-critical insights through a Streamlit analytics dashboard hosted on AWS.
 
-1. **ETL pipeline** for ingesting and modeling raw CMS data
-2. **Analytics layer** for KPI computation and exploratory analysis
-3. **Visualization layer** for interactive dashboards and insights
+Key goals:
 
-Each layer is designed to reflect real-world data engineering and analytics
-workflows used in healthcare and pharmaceutical analytics.
+- Handle **large-scale healthcare data** efficiently
+- Apply **data warehouse design best practices**
+- Enable **fast analytical queries** through pre-aggregation
+- Deploy a **production-style analytics application** in the cloud
+
+## Architecture
+
+    CMS Part D CSV (26M+ rows)
+            ↓
+    Python ETL (chunked processing)
+            ↓
+    PostgreSQL (Star Schema)
+            ↓
+    Materialized View (Analytics)
+            ↓
+    Streamlit Dashboard
+            ↓
+    AWS (Using EC2, RDS, ALB, HTTPS)
 
 ## Project Structure
 
 ### 1. ETL Pipeline
 
 - Chunked ingestion of multi-gigabyte CMS CSV files
-- Data cleaning, normalization, and suppression handling
-- Star-schema data warehouse design
-- PostgreSQL-based fact and dimension tables
-- Validation checks to ensure data integrity
+- Data cleaning, normalization, and validation
+- Star-schema data warehouse design (facts + dimensions)
+- Optimized loading using bulk inserts and staging tables
 
 📁 `etl/` → see `etl/README.md`
 
 ### 2. Analytics Layer (in progress)
 
-- SQL-based aggregation for performance and scalability
-- KPI development for pharmaceutical spend and utilization
-- Geographic analysis at state and regional levels
-- Brand vs Generic spend analysis
-- Dropdown-based regional analysis for Top 10 drugs
-- Demo mode using a lightweight sample dataset
+- SQL-based KPI calculations
+- Pre-aggregated materialized views for performance
+- State-level and drug-level pharmaceutical spend analysis
+- Brand vs Generic spend comparison
 
 📁 `analytics/` → see `analytics/README.md`
 
 ## 3. Visualization & Deployment
 
 - Interactive dashboards built with Streamlit
-- KPI cards, bar charts, maps, and summary tables
-- Designed for exploratory analysis and benchmarking
-- Cloud deployment planned using AWS
+- KPI cards, bar charts, and geographic views
+- Hosted on AWS with HTTPS and custom domain
+- Load-balanced and secured cloud architecture
 
 📁 analytics/dashboard.py
 
 ### 4. Data
 
-- Sample dataset containing 1,000 randomly selected rows from the original CMS CSV file
+- Sample dataset containing 1,500 randomly selected rows from the ETL CMS from PostgreSQL warehouse
 - Used for demo mode and development testing
 - Full raw CMS dataset intentionally excluded from version control
 
@@ -60,16 +70,42 @@ workflows used in healthcare and pharmaceutical analytics.
 
 ## Tech Stack
 
+**Data Engineering**
+
 - Python
 - pandas
-- PostgreSQL
 - SQLAlchemy
+- PostgreSQL
+
+**Analytics & Visualization**
+
+- SQL
 - Streamlit
 - Plotly
-- AWS
+
+**Cloud & Deployment**
+
+- AWS EC2
+- AWS RDS (PostgreSQL)
+- Application Load Balancer
+- Route 53 + ACM (HTTPS)
 
 ## Data Source
 
 - **CMS Medicare Part D Prescriber Public Use File**
 - Reporting Year: 2023
 - Public, de-identified healthcare data
+
+## What This Project Demonstrates
+
+- Designing and loading a **large-scale data warehouse**
+- Writing **production-oriented ETL pipelines**
+- Optimizing analytical performance using **materialized views**
+- Building and deploying a **cloud-hosted analytics application**
+- Debugging and resolving **real infrastructure constraints** (memory, networking, scaling)
+
+## Author
+
+**Sunwoo Lee**  
+Data Analytics / Data Engineering Projects  
+🔗 https://www.swlee9867.com

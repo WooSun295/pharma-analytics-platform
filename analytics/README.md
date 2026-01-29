@@ -5,8 +5,8 @@
 This module implements an interactive analytics dashboard built with **Python and Streamlit**
 on top of a PostgreSQL data warehouse populated from **CMS Medicare Part D** data.
 
-The dashboard is designed to surface **pharmaceutical spending, utilization, and market
-composition insights** at national and state/regional levels.
+The dashboard surfaces **pharmaceutical spending, utilization, and market composition**
+insights at national, state, and regional levels.
 
 ## Purpose
 
@@ -43,7 +43,8 @@ These KPIs update dynamically based on active filters.
 - Tabular breakdown with:
    - Total spend
    - Percent of total
-- Classification based on CMS drug naming conventions
+- Classification is derived from CMS brand and generic name fields
+  and is intended for analytical comparison rather than regulatory labeling
 
 ### Geographic Spend Analysis
 
@@ -74,7 +75,8 @@ Available filters include:
 - **Geographic View** (US States vs Non-US Regions)
 - **Demo Mode** (sample CSV vs full database)
 
-All charts and KPIs respond to active filters.
+All filters are applied globally, ensuring that KPIs and visualizations
+remain consistent across the dashboard.
 
 ## Demo Mode
 
@@ -87,7 +89,34 @@ This enables:
 - Easy demos for recruiters
 - Reduced resource usage
 
-Demo Mode can be toggled directly from the sidebar. You will need to download the sample data from pharma-analytics-platform/data.
+Demo Mode can be toggled directly from the sidebar. The repository includes a lightweight sample dataset for Demo Mode
+to enable local testing without requiring the full CMS dataset.
+
+## Architecture & Performance
+
+The dashboard is designed to operate efficiently on large-scale datasets
+(26M+ fact records) by delegating heavy aggregation work to PostgreSQL.
+
+Key performance decisions include:
+
+- Use of **materialized views** to pre-aggregate high-cardinality fact data
+- Limiting dashboard queries to analytics-ready datasets
+- Avoiding full fact-table scans during interactive use
+- Lightweight in-memory transformations in pandas for visualization only
+
+This approach enables responsive dashboard performance while keeping
+infrastructure requirements modest.
+
+## Deployment
+
+The dashboard is deployed on AWS and served over HTTPS using a custom domain.
+
+Deployment components include:
+
+- EC2 for hosting the Streamlit application
+- RDS (PostgreSQL) for the analytics warehouse
+- Application Load Balancer for HTTPS termination
+- Route 53 and ACM for DNS and SSL certificates
 
 ## Tech Stack
 

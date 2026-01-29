@@ -4,7 +4,7 @@
 
 This project implements an end-to-end ETL (Extract, Transform, Load) pipeline using publicly available **CMS Medicare Part D Prescriber Data**. The goal is to model large-scale healthcare data into an analytics ready **PostgreSQL data warehouse**, forming the foundation for downstream analytics and visualization.
 
-The pipeline is designed to handle multi-gigabyte CSV files, perform data cleaning and normalization, and load data into a star-schema-style warehouse suitable form pharmaceutical analytics use cases.
+The pipeline is designed to handle multi-gigabyte CSV files, perform data cleaning and normalization, and load data into a star-schema-style warehouse suitable for pharmaceutical analytics use cases.
 
 ## Disclaimer
 
@@ -110,7 +110,7 @@ The ETL process is modularized into 3 components:
 Environment-specific values are stored in a '.env' file:
 
 - CSV_PATH = /path/to/cms_data.csv
-- DB_URI=postgresql+psycopg2:user:password@localhost5432/pharma_dw
+- DB_URI=postgresql+psycopg2://user:password@localhost5432/pharma_dw
 
 ## Data Validation
 
@@ -121,7 +121,19 @@ Post-load checks were performed to ensure data quality:
 - Value sanity checks (no negative costs)
 - Duplicate detection and validation
 - Distribution spot checks (top drugs by spend)
-  Duplicate fact rows were identified and determined to be expected behavior given CMS reporting structure. Aggregation is handled at query time.
+- Duplicate fact rows were identified and determined to be expected behavior given the CMS reporting structure and reporting granularity. Aggregation is intentionally handled at query time.
+
+## Performance & Scaling Considerations
+
+Given the size of the CMS dataset (26M+ rows), the ETL pipeline was designed with performance and reliability in mind:
+
+- **Chunked extraction** was used to prevent memory exhaustion when processing large CSV files
+- **Staging tables and bulk inserts** were leveraged to efficiently load data into PostgreSQL
+- Dimension tables enforce **uniqueness constraints** to prevent duplicate entities
+- Fact data is loaded at a granular level to preserve fidelity, with aggregation deferred to query time
+- The pipeline is designed to be re-runnable without data corruption
+
+These decisions allow the pipeline to scale while remaining stable on modest infrastructure.
 
 ## Technology Stack
 
