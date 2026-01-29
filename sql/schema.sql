@@ -3,7 +3,6 @@
 -- ============================================
 
 DROP TABLE IF EXISTS fact_sales CASCADE;
-DROP TABLE IF EXISTS temp_fact CASCADE;
 DROP TABLE IF EXISTS dim_provider CASCADE;
 DROP TABLE IF EXISTS dim_drug CASCADE;
 

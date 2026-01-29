@@ -5,6 +5,7 @@ from extract import extract_data
 from transform import transform_chunk
 from load import load_dimensions, load_facts
 from pathlib import Path
+import time
 
 load_dotenv()
 
@@ -41,8 +42,13 @@ for raw_chunk in extract_data(CSV_PATH):
     if transformed.empty:
         continue
 
+    t0 = time.time()
     load_dimensions(transformed, engine)
+    print(f"Chunk {i}: Load Dimensions took {time.time()-t0:.1f}s")
+
+    t1 = time.time()
     load_facts(transformed, engine)
+    print(f"Chunk {i}: Load Facts took {time.time()-t0:.1f}s")
 
     print(f"Chunk {i}: loaded ~{len(raw_chunk):,} raw rows, {len(transformed):,} transformed rows", flush=True)
 
